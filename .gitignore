@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data files
+.csv
+.geojson
+
+# Google Drive
+desktop.ini
