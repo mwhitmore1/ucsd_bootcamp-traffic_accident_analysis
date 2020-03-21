@@ -136,4 +136,4 @@ dmypy.json
 desktop.ini
 
 # API keys
-api_keys.py
+api_config.py
