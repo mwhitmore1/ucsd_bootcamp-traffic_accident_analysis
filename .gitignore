@@ -134,3 +134,6 @@ dmypy.json
 
 # Google Drive
 desktop.ini
+
+# API keys
+api_config.py
