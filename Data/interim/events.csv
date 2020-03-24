@@ -13,16 +13,8 @@
 6,12 Clock Point,60006,7,Wall,1,9999
 0,1 Clock Point,60007,1,Pedestrian,1,9999
 1,Other Objects Set-In-Motion,60007,2,Concrete Traffic Barrier,1,9999
-0,1 Clock Point,60007,1,Pedestrian,1,9999
-1,Other Objects Set-In-Motion,60007,2,Concrete Traffic Barrier,1,9999
 0,12 Clock Point,60008,1,Pedestrian,1,9999
 1,12 Clock Point,60008,2,Pedestrian,2,9999
-0,Non-Harmful Event,60009,1,Ran Off Roadway - Right,1,5555
-1,Right-Front Side,60009,2,Guardrail Face,1,9999
-2,Undercarriage,60009,3,Curb,1,9999
-3,Not Reported,60009,4,Fence,1,9999
-4,Non-Harmful Event,60009,5,Vehicle Went Airborne,1,5555
-5,Undercarriage,60009,6,Ground,1,9999
 0,Non-Harmful Event,60009,1,Ran Off Roadway - Right,1,5555
 1,Right-Front Side,60009,2,Guardrail Face,1,9999
 2,Undercarriage,60009,3,Curb,1,9999
@@ -37,29 +29,12 @@
 1,Right,60014,2,Tree (Standing Only),1,9999
 2,6 Clock Point,60014,3,Tree (Standing Only),1,9999
 0,Unknown,60016,1,Pedestrian,1,9999
-0,Unknown,60016,1,Pedestrian,1,9999
 0,Non-Harmful Event,60017,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,60017,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,60017,3,Cross Centerline,1,5555
 3,Non-Harmful Event,60017,4,Ran Off Roadway - Left,1,5555
 4,Right,60017,5,Fence,1,9999
 5,Non-Collision,60017,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60017,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60017,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,60017,3,Cross Centerline,1,5555
-3,Non-Harmful Event,60017,4,Ran Off Roadway - Left,1,5555
-4,Right,60017,5,Fence,1,9999
-5,Non-Collision,60017,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60017,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60017,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,60017,3,Cross Centerline,1,5555
-3,Non-Harmful Event,60017,4,Ran Off Roadway - Left,1,5555
-4,Right,60017,5,Fence,1,9999
-5,Non-Collision,60017,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60022,1,Ran Off Roadway - Left,1,9999
-1,12 Clock Point,60022,2,Parked Motor Vehicle ,1,2
-2,Not Reported,60022,3,Parked Motor Vehicle ,1,3
-3,Non-Collision,60022,4,Fire/Explosion,1,9999
 0,Non-Harmful Event,60022,1,Ran Off Roadway - Left,1,9999
 1,12 Clock Point,60022,2,Parked Motor Vehicle ,1,2
 2,Not Reported,60022,3,Parked Motor Vehicle ,1,3
@@ -73,20 +48,8 @@
 0,Non-Harmful Event,60025,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60025,2,Motor Vehicle In-Transport ,1,2
 2,Right-Front Half,60025,3,Bridge Rail (Includes parapet),1,9999
-0,Non-Harmful Event,60025,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60025,2,Motor Vehicle In-Transport ,1,2
-2,Right-Front Half,60025,3,Bridge Rail (Includes parapet),1,9999
-0,Non-Harmful Event,60025,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60025,2,Motor Vehicle In-Transport ,1,2
-2,Right-Front Half,60025,3,Bridge Rail (Includes parapet),1,9999
 0,Non-Harmful Event,60026,1,Ran Off Roadway - Right,1,5555
 1,9 Clock Point,60026,2,Utility Pole/Light Support,1,9999
-0,Non-Harmful Event,60026,1,Ran Off Roadway - Right,1,5555
-1,9 Clock Point,60026,2,Utility Pole/Light Support,1,9999
-0,Non-Harmful Event,60027,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60027,2,Other Fixed Object,1,9999
-2,12 Clock Point,60027,3,Other Fixed Object,1,9999
-3,Non-Collision,60027,4,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60027,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60027,2,Other Fixed Object,1,9999
 2,12 Clock Point,60027,3,Other Fixed Object,1,9999
@@ -107,16 +70,6 @@
 2,Non-Harmful Event,60036,3,Re-entering Roadway,1,5555
 3,Non-Collision,60036,4,Rollover/Overturn,1,9999
 4,Other Objects Set-In-Motion,60036,5,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,Non-Harmful Event,60036,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,60036,2,Shrubbery,1,9999
-2,Non-Harmful Event,60036,3,Re-entering Roadway,1,5555
-3,Non-Collision,60036,4,Rollover/Overturn,1,9999
-4,Other Objects Set-In-Motion,60036,5,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,12 Clock Point,60038,1,Pedestrian,1,9999
-1,Non-Collision,60038,2,Fell/Jumped from Vehicle,1,9999
-2,Non-Collision,60038,3,Rollover/Overturn,1,9999
-3,Non-Harmful Event,60038,4,Ran Off Roadway - Left,1,5555
-4,Not Reported,60038,5,Curb,1,9999
 0,12 Clock Point,60038,1,Pedestrian,1,9999
 1,Non-Collision,60038,2,Fell/Jumped from Vehicle,1,9999
 2,Non-Collision,60038,3,Rollover/Overturn,1,9999
@@ -133,10 +86,7 @@
 0,Non-Collision,60045,1,Rollover/Overturn,1,9999
 1,Not Reported,60045,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60046,1,Non-Motorist on Personal Conveyance,1,9999
-0,12 Clock Point,60046,1,Non-Motorist on Personal Conveyance,1,9999
 0,12 Clock Point,60047,1,Pedestrian,1,9999
-0,12 Clock Point,60047,1,Pedestrian,1,9999
-0,12 Clock Point,60048,1,Pedestrian,1,9999
 0,12 Clock Point,60048,1,Pedestrian,1,9999
 0,12 Clock Point,60050,1,Motor Vehicle In-Transport ,1,2
 0,Right-Front Side,60052,1,Pedestrian,1,9999
@@ -157,9 +107,6 @@
 0,12 Clock Point,60062,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60062,2,Ran Off Roadway - Left,2,5555
 2,Not Reported,60062,3,Concrete Traffic Barrier,2,9999
-0,12 Clock Point,60062,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60062,2,Ran Off Roadway - Left,2,5555
-2,Not Reported,60062,3,Concrete Traffic Barrier,2,9999
 0,12 Clock Point,60065,1,Pedestrian,1,9999
 0,Non-Harmful Event,60066,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60066,2,Tree (Standing Only),1,9999
@@ -168,7 +115,6 @@
 4,Not Reported,60066,5,Fence,1,9999
 0,Non-Harmful Event,60067,1,Ran Off Roadway - Right,1,5555
 1,Right,60067,2,Tree (Standing Only),1,9999
-0,12 Clock Point,60068,1,Pedestrian,1,9999
 0,12 Clock Point,60068,1,Pedestrian,1,9999
 0,12 Clock Point,60071,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,60072,1,Ran Off Roadway - Right,1,5555
@@ -183,7 +129,6 @@
 4,Non-Harmful Event,60074,5,Ran Off Roadway - Left,1,5555
 5,Not Reported,60074,6,Concrete Traffic Barrier,1,9999
 6,Set-In-Motion (Not a Clock Value),60074,7,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,12 Clock Point,60076,1,Pedestrian,1,9999
 0,12 Clock Point,60076,1,Pedestrian,1,9999
 0,Non-Collision,60079,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,60079,2,Ran Off Roadway - Right,1,5555
@@ -200,9 +145,6 @@
 0,Non-Harmful Event,60086,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60086,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,60086,3,Other Fixed Object,1,9999
-0,Non-Harmful Event,60086,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60086,2,Ran Off Roadway - Left,1,5555
-2,Not Reported,60086,3,Other Fixed Object,1,9999
 0,12 Clock Point,60088,1,Pedestrian,1,9999
 0,Non-Harmful Event,60089,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,60089,2,Curb,1,9999
@@ -214,16 +156,7 @@
 0,Non-Harmful Event,60090,1,Cargo/Equipment Loss or Shift (non-harmful) ,1,5555
 1,Non-Harmful Event,60090,2,Cross Centerline,1,5555
 2,Right,60090,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60090,1,Cargo/Equipment Loss or Shift (non-harmful) ,1,5555
-1,Non-Harmful Event,60090,2,Cross Centerline,1,5555
-2,Right,60090,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60090,1,Cargo/Equipment Loss or Shift (non-harmful) ,1,5555
-1,Non-Harmful Event,60090,2,Cross Centerline,1,5555
-2,Right,60090,3,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60092,1,Pedestrian,1,9999
-0,Non-Harmful Event,60093,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,60093,2,Concrete Traffic Barrier,1,9999
-2,Not Reported,60093,3,Concrete Traffic Barrier,1,9999
 0,Non-Harmful Event,60093,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,60093,2,Concrete Traffic Barrier,1,9999
 2,Not Reported,60093,3,Concrete Traffic Barrier,1,9999
@@ -231,16 +164,8 @@
 1,Non-Harmful Event,60094,2,Ran Off Roadway - Right,1,5555
 2,Non-Collision,60094,3,Rollover/Overturn,1,9999
 0,12 Clock Point,60095,1,Pedestrian,1,9999
-0,12 Clock Point,60095,1,Pedestrian,1,9999
 0,Unknown,60096,1,Pedestrian,1,9999
 0,Undercarriage,60097,1,Pedestrian,1,9999
-0,Non-Harmful Event,60100,1,Ran Off Roadway - Right,1,5555
-1,1 Clock Point,60100,2,Parked Motor Vehicle ,1,2
-2,Not Reported,60100,3,Parked Motor Vehicle ,1,3
-3,Not Reported,60100,4,Pedestrian,1,9999
-4,Not Reported,60100,5,Pedestrian,1,9999
-5,Not Reported,60100,6,Parked Motor Vehicle ,1,4
-6,Other Objects Set-In-Motion,60100,7,Guardrail Face,1,9999
 0,Non-Harmful Event,60100,1,Ran Off Roadway - Right,1,5555
 1,1 Clock Point,60100,2,Parked Motor Vehicle ,1,2
 2,Not Reported,60100,3,Parked Motor Vehicle ,1,3
@@ -252,8 +177,6 @@
 0,12 Clock Point,60102,1,Pedestrian,1,9999
 0,Non-Harmful Event,60103,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60103,2,Parked Motor Vehicle ,1,2
-0,Non-Harmful Event,60103,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60103,2,Parked Motor Vehicle ,1,2
 0,Non-Harmful Event,60104,1,Ran Off Roadway - Right,1,5555
 1,1 Clock Point,60104,2,Parked Motor Vehicle ,1,2
 2,Undercarriage,60104,3,Parked Motor Vehicle ,1,2
@@ -262,7 +185,6 @@
 5,Other Objects Set-In-Motion,60104,6,Other Fixed Object,1,9999
 6,Non-Collision,60104,7,Rollover/Overturn,1,9999
 7,Other Objects Set-In-Motion,60104,8,Parked Motor Vehicle ,1,3
-0,12 Clock Point,60105,1,Pedestrian,1,9999
 0,12 Clock Point,60105,1,Pedestrian,1,9999
 0,Non-Harmful Event,60106,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60106,2,Ran Off Roadway - Left,1,5555
@@ -276,12 +198,6 @@
 0,12 Clock Point,60108,1,Pedestrian,1,9999
 1,12 Clock Point,60108,2,Pedestrian,1,9999
 2,12 Clock Point,60108,3,Pedestrian,1,9999
-0,12 Clock Point,60108,1,Pedestrian,1,9999
-1,12 Clock Point,60108,2,Pedestrian,1,9999
-2,12 Clock Point,60108,3,Pedestrian,1,9999
-0,12 Clock Point,60108,1,Pedestrian,1,9999
-1,12 Clock Point,60108,2,Pedestrian,1,9999
-2,12 Clock Point,60108,3,Pedestrian,1,9999
 0,Non-Harmful Event,60109,1,Ran Off Roadway - Left,1,5555
 1,Non-Harmful Event,60109,2,Re-entering Roadway,1,5555
 2,Non-Collision,60109,3,Rollover/Overturn,1,9999
@@ -290,7 +206,6 @@
 2,Non-Collision,60113,3,Rollover/Overturn,3,9999
 3,Not Reported,60113,4,Motor Vehicle In-Transport ,3,1
 0,12 Clock Point,60114,1,Other Object (not fixed),1,9999
-0,12 Clock Point,60115,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60115,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60117,1,Non-Motorist on Personal Conveyance,1,9999
 0,12 Clock Point,60118,1,Pedestrian,1,9999
@@ -301,16 +216,6 @@
 3,Not Reported,60122,4,Traffic Sign Support ,1,9999
 4,Non-Collision,60122,5,Fire/Explosion,1,9999
 0,12 Clock Point,60123,1,Pedestrian,1,9999
-0,Right-Front Side,60124,1,Motor Vehicle In-Transport ,1,2
-1,Right,60124,2,Motor Vehicle In-Transport ,1,3
-2,Left-Front Side,60124,3,Motor Vehicle In-Transport ,1,4
-3,Non-Harmful Event,60124,4,Ran Off Roadway - Left,1,5555
-4,12 Clock Point,60124,5,Concrete Traffic Barrier,1,9999
-5,Non-Harmful Event,60124,6,Re-entering Roadway,1,5555
-6,Non-Harmful Event,60124,7,Ran Off Roadway - Left,1,5555
-7,Non-Harmful Event,60124,8,Re-entering Roadway,1,5555
-8,Non-Harmful Event,60124,9,Ran Off Roadway - Left,1,5555
-9,Right,60124,10,Concrete Traffic Barrier,1,9999
 0,Right-Front Side,60124,1,Motor Vehicle In-Transport ,1,2
 1,Right,60124,2,Motor Vehicle In-Transport ,1,3
 2,Left-Front Side,60124,3,Motor Vehicle In-Transport ,1,4
@@ -340,20 +245,11 @@
 10,Non-Collision,60128,11,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60129,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60129,2,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60129,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60129,2,Tree (Standing Only),1,9999
 0,Non-Harmful Event,60130,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,60130,2,Curb,1,9999
 2,Right,60130,3,Shrubbery,1,9999
 3,Not Reported,60130,4,Pedestrian,1,9999
 4,Not Reported,60130,5,Other Fixed Object,1,9999
-0,Non-Harmful Event,60130,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,60130,2,Curb,1,9999
-2,Right,60130,3,Shrubbery,1,9999
-3,Not Reported,60130,4,Pedestrian,1,9999
-4,Not Reported,60130,5,Other Fixed Object,1,9999
-0,Undercarriage,60131,1,Pedestrian,1,9999
-0,Undercarriage,60131,1,Pedestrian,1,9999
 0,Undercarriage,60131,1,Pedestrian,1,9999
 0,Non-Harmful Event,60133,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60133,2,Ran Off Roadway - Left,1,5555
@@ -386,26 +282,6 @@
 4,Undercarriage,60144,5,Curb,1,9999
 5,Left,60144,6,Tree (Standing Only),1,9999
 6,Not Reported,60144,7,Fence,1,9999
-0,Non-Harmful Event,60144,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60144,2,Cross Centerline,1,5555
-2,Non-Harmful Event,60144,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,60144,4,Ran Off Roadway - Right,1,5555
-4,Undercarriage,60144,5,Curb,1,9999
-5,Left,60144,6,Tree (Standing Only),1,9999
-6,Not Reported,60144,7,Fence,1,9999
-0,Non-Collision,60147,1,Rollover/Overturn,1,9999
-1,Non-Harmful Event,60147,2,Cross Centerline,1,5555
-2,Not Reported,60147,3,Motor Vehicle In-Transport ,1,2
-3,Non-Harmful Event,60147,4,Ran Off Roadway - Left,1,5555
-4,Not Reported,60147,5,Fence,1,9999
-5,Non-Harmful Event,60147,6,Cross Centerline,2,5555
-6,Non-Harmful Event,60147,7,Cross Centerline,3,5555
-7,Non-Harmful Event,60147,8,Cross Centerline,3,5555
-8,Set-In-Motion (Not a Clock Value),60147,9,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
-9,Left-Front Side,60147,10,Motor Vehicle In-Transport ,3,4
-10,Non-Harmful Event,60147,11,Ran Off Roadway - Left,3,5555
-11,Undercarriage,60147,12,Curb,3,9999
-12,Not Reported,60147,13,Fence,3,9999
 0,Non-Collision,60147,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,60147,2,Cross Centerline,1,5555
 2,Not Reported,60147,3,Motor Vehicle In-Transport ,1,2
@@ -428,7 +304,6 @@
 0,12 Clock Point,60152,1,Pedestrian,1,9999
 0,12 Clock Point,60155,1,Pedalcyclist,1,9999
 0,12 Clock Point,60156,1,Pedestrian,1,9999
-0,12 Clock Point,60156,1,Pedestrian,1,9999
 0,Non-Harmful Event,60163,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,60163,2,Concrete Traffic Barrier,1,9999
 2,Not Reported,60163,3,Other Object (not fixed),1,9999
@@ -444,17 +319,8 @@
 2,Non-Collision,60166,3,Rollover/Overturn,1,9999
 3,Non-Collision,60166,4,Fire/Explosion,2,9999
 0,12 Clock Point,60169,1,Motor Vehicle In-Transport ,2,1
-0,12 Clock Point,60169,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,60170,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,60170,2,Pedestrian,1,9999
-0,Non-Harmful Event,60170,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,60170,2,Pedestrian,1,9999
-0,Not Reported,60171,1,Pedestrian,1,9999
-1,Non-Harmful Event,60171,2,Ran off Roadway - Direction Unknown,1,9999
-2,Not Reported,60171,3,Culvert,1,9999
-3,12 Clock Point,60171,4,Other Object (not fixed),1,9999
-4,12 Clock Point,60171,5,Wall,1,9999
-5,Not Reported,60171,6,Tree (Standing Only),1,9999
 0,Not Reported,60171,1,Pedestrian,1,9999
 1,Non-Harmful Event,60171,2,Ran off Roadway - Direction Unknown,1,9999
 2,Not Reported,60171,3,Culvert,1,9999
@@ -469,8 +335,6 @@
 5,12 Clock Point,60174,6,"Other Post, Other Pole or Other Supports",1,9999
 6,12 Clock Point,60174,7,Fence,1,9999
 7,12 Clock Point,60174,8,Building,1,9999
-0,12 Clock Point,60175,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60175,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60175,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60176,1,Pedestrian,1,9999
 0,12 Clock Point,60177,1,Motor Vehicle In-Transport ,1,2
@@ -498,17 +362,6 @@
 3,12 Clock Point,60181,4,Fence,1,9999
 4,12 Clock Point,60181,5,Ditch,1,9999
 5,Non-Collision,60181,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60181,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,60181,2,Curb,1,9999
-2,12 Clock Point,60181,3,Fence,1,9999
-3,12 Clock Point,60181,4,Fence,1,9999
-4,12 Clock Point,60181,5,Ditch,1,9999
-5,Non-Collision,60181,6,Rollover/Overturn,1,9999
-0,12 Clock Point,60182,1,Motor Vehicle In-Transport ,2,1
-1,Non-Harmful Event,60182,2,Ran Off Roadway - Right,3,5555
-2,Not Reported,60182,3,Curb,3,9999
-3,Not Reported,60182,4,Tree (Standing Only),3,9999
-4,Not Reported,60182,5,Wall,3,9999
 0,12 Clock Point,60182,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,60182,2,Ran Off Roadway - Right,3,5555
 2,Not Reported,60182,3,Curb,3,9999
@@ -518,12 +371,6 @@
 1,Other Objects Set-In-Motion,60184,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
 0,Non-Harmful Event,60185,1,Cross Centerline,1,5555
 1,12 Clock Point,60185,2,Motor Vehicle In-Transport ,1,2
-0,Non-Collision,60186,1,Rollover/Overturn,2,9999
-1,Other Objects Set-In-Motion,60186,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
-2,Other Objects Set-In-Motion,60186,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
-0,Non-Collision,60186,1,Rollover/Overturn,2,9999
-1,Other Objects Set-In-Motion,60186,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
-2,Other Objects Set-In-Motion,60186,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
 0,Non-Collision,60186,1,Rollover/Overturn,2,9999
 1,Other Objects Set-In-Motion,60186,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
 2,Other Objects Set-In-Motion,60186,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
@@ -543,11 +390,8 @@
 0,12 Clock Point,60198,1,Pedestrian,1,9999
 0,12 Clock Point,60201,1,Pedestrian,1,9999
 0,12 Clock Point,60202,1,Pedestrian,1,9999
-0,12 Clock Point,60202,1,Pedestrian,1,9999
 0,12 Clock Point,60206,1,Pedestrian,1,9999
 0,12 Clock Point,60208,1,Motor Vehicle In-Transport ,1,2
-0,5 Clock Point,60209,1,Pedalcyclist,1,9999
-1,12 Clock Point,60209,2,Pedalcyclist,2,9999
 0,5 Clock Point,60209,1,Pedalcyclist,1,9999
 1,12 Clock Point,60209,2,Pedalcyclist,2,9999
 0,12 Clock Point,60211,1,Pedestrian,1,9999
@@ -561,8 +405,6 @@
 2,Not Reported,60216,3,Other Fixed Object,1,9999
 3,Not Reported,60216,4,Utility Pole/Light Support,1,9999
 4,Not Reported,60216,5,Fence,1,9999
-0,Non-Harmful Event,60219,1,Ran Off Roadway - Right,1,5555
-1,Non-Collision,60219,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60219,1,Ran Off Roadway - Right,1,5555
 1,Non-Collision,60219,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60221,1,Cross Centerline,1,5555
@@ -582,12 +424,6 @@
 1,12 Clock Point,60235,2,Motor Vehicle In-Transport ,4,3
 2,Non-Collision,60235,3,Rollover/Overturn,4,9999
 3,Not Reported,60235,4,Motor Vehicle In-Transport ,4,5
-0,12 Clock Point,60235,1,Motor Vehicle In-Transport ,1,2
-1,12 Clock Point,60235,2,Motor Vehicle In-Transport ,4,3
-2,Non-Collision,60235,3,Rollover/Overturn,4,9999
-3,Not Reported,60235,4,Motor Vehicle In-Transport ,4,5
-0,Non-Harmful Event,60236,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,60236,2,Concrete Traffic Barrier,1,9999
 0,Non-Harmful Event,60236,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,60236,2,Concrete Traffic Barrier,1,9999
 0,Non-Harmful Event,60239,1,Ran Off Roadway - Right,1,9999
@@ -595,10 +431,6 @@
 2,1 Clock Point,60239,3,Parked Motor Vehicle ,1,2
 3,Set-In-Motion (Not a Clock Point),60239,4,Parked Motor Vehicle ,1,3
 4,Set-In-Motion (Not a Clock Point),60239,5,Parked Motor Vehicle ,1,4
-0,Non-Harmful Event,60241,1,Ran Off Roadway - Right,1,5555
-1,Left,60241,2,Tree (Standing Only),1,9999
-2,Left,60241,3,Other Fixed Object,1,9999
-3,Non-Collision,60241,4,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60241,1,Ran Off Roadway - Right,1,5555
 1,Left,60241,2,Tree (Standing Only),1,9999
 2,Left,60241,3,Other Fixed Object,1,9999
@@ -615,21 +447,11 @@
 3,Not Reported,60253,4,Guardrail Face,1,9999
 0,12 Clock Point,60257,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,60257,2,Rollover/Overturn,2,9999
-0,12 Clock Point,60257,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,60257,2,Rollover/Overturn,2,9999
-0,12 Clock Point,60257,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,60257,2,Rollover/Overturn,2,9999
 0,Non-Harmful Event,60258,1,Cross Centerline,1,5555
 1,12 Clock Point,60258,2,Motor Vehicle In-Transport ,1,2
 2,Non-Harmful Event,60258,3,Cross Centerline,1,5555
 3,Non-Harmful Event,60258,4,Ran Off Roadway - Right,1,5555
 4,Not Reported,60258,5,Parked Motor Vehicle ,1,3
-0,Non-Harmful Event,60258,1,Cross Centerline,1,5555
-1,12 Clock Point,60258,2,Motor Vehicle In-Transport ,1,2
-2,Non-Harmful Event,60258,3,Cross Centerline,1,5555
-3,Non-Harmful Event,60258,4,Ran Off Roadway - Right,1,5555
-4,Not Reported,60258,5,Parked Motor Vehicle ,1,3
-0,12 Clock Point,60259,1,Pedestrian,1,9999
 0,12 Clock Point,60259,1,Pedestrian,1,9999
 0,12 Clock Point,60260,1,Pedestrian,1,9999
 0,Non-Harmful Event,60263,1,Ran Off Roadway - Right,1,5555
@@ -671,19 +493,12 @@
 0,Non-Harmful Event,60289,1,Ran Off Roadway - Right,1,5555
 1,Right,60289,2,Embankment,1,9999
 2,Non-Collision,60289,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60289,1,Ran Off Roadway - Right,1,5555
-1,Right,60289,2,Embankment,1,9999
-2,Non-Collision,60289,3,Rollover/Overturn,1,9999
-0,12 Clock Point,60290,1,Pedestrian,1,9999
-0,12 Clock Point,60290,1,Pedestrian,1,9999
 0,12 Clock Point,60290,1,Pedestrian,1,9999
 0,Unknown,60292,1,Pedestrian,1,9999
 0,12 Clock Point,60294,1,Pedestrian,1,9999
 1,12 Clock Point,60294,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60295,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60295,2,Bridge Rail (Includes parapet),1,9999
-0,Not Reported,60296,1,Pedestrian,1,9999
-0,Not Reported,60296,1,Pedestrian,1,9999
 0,Not Reported,60296,1,Pedestrian,1,9999
 0,Non-Harmful Event,60301,1,Cross Centerline,1,5555
 1,Right,60301,2,Motor Vehicle In-Transport ,1,2
@@ -697,12 +512,6 @@
 3,9 Clock Point,60303,4,Wall,1,9999
 4,9 Clock Point,60303,5,Utility Pole/Light Support,1,9999
 5,Set-In-Motion (Not a Clock Point),60303,6,Parked Motor Vehicle ,1,2
-0,Non-Harmful Event,60304,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60304,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,60304,3,Cross Centerline,1,5555
-3,Non-Harmful Event,60304,4,Ran Off Roadway - Left,1,5555
-4,Right,60304,5,Parked Motor Vehicle ,1,2
-5,Other Objects Set-In-Motion,60304,6,Fence,1,9999
 0,Non-Harmful Event,60304,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,60304,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,60304,3,Cross Centerline,1,5555
@@ -724,15 +533,6 @@
 0,12 Clock Point,60322,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60322,2,Cross Centerline,1,5555
 2,7 Clock Point,60322,3,Motor Vehicle In-Transport ,1,3
-0,12 Clock Point,60322,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60322,2,Cross Centerline,1,5555
-2,7 Clock Point,60322,3,Motor Vehicle In-Transport ,1,3
-0,12 Clock Point,60326,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60326,2,Ran Off Roadway - Right,1,5555
-2,Not Reported,60326,3,Utility Pole/Light Support,1,9999
-3,Non-Collision,60326,4,Rollover/Overturn,1,9999
-4,Not Reported,60326,5,Ditch,1,9999
-5,Other Objects Set-In-Motion,60326,6,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
 0,12 Clock Point,60326,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60326,2,Ran Off Roadway - Right,1,5555
 2,Not Reported,60326,3,Utility Pole/Light Support,1,9999
@@ -752,15 +552,6 @@
 6,Non-Collision,60340,7,Rollover/Overturn,1,9999
 7,Non-Harmful Event,60340,8,Re-entering Roadway,1,5555
 8,12 Clock Point,60340,9,Motor Vehicle In-Transport ,2,1
-0,Non-Harmful Event,60340,1,Ran Off Roadway - Right,1,5555
-1,Unknown,60340,2,"Other Post, Other Pole or Other Supports",1,9999
-2,Non-Harmful Event,60340,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,60340,4,Cross Centerline,1,5555
-4,Non-Harmful Event,60340,5,Ran Off Roadway - Left,1,5555
-5,Unknown,60340,6,Embankment,1,9999
-6,Non-Collision,60340,7,Rollover/Overturn,1,9999
-7,Non-Harmful Event,60340,8,Re-entering Roadway,1,5555
-8,12 Clock Point,60340,9,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,60343,1,Pedestrian,1,9999
 0,Non-Harmful Event,60344,1,Ran Off Roadway - Right,1,9999
 1,Undercarriage,60344,2,Curb,1,9999
@@ -769,7 +560,6 @@
 4,Non-Collision,60344,5,Rollover/Overturn,1,9999
 5,Not Reported,60344,6,Wall,1,9999
 0,12 Clock Point,60345,1,Pedestrian,1,9999
-0,12 Clock Point,60347,1,Pedestrian,1,9999
 0,12 Clock Point,60347,1,Pedestrian,1,9999
 0,12 Clock Point,60349,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60349,2,Cross Centerline,2,5555
@@ -787,15 +577,12 @@
 5,Not Reported,60351,6,Concrete Traffic Barrier,1,9999
 0,12 Clock Point,60352,1,Pedestrian,1,9999
 0,12 Clock Point,60357,1,Pedestrian,1,9999
-0,12 Clock Point,60357,1,Pedestrian,1,9999
-0,12 Clock Point,60357,1,Pedestrian,1,9999
 0,12 Clock Point,60358,1,Pedestrian,1,9999
 0,Non-Harmful Event,60362,1,Ran Off Roadway - Right,1,5555
 1,Left,60362,2,Utility Pole/Light Support,1,9999
 2,Left,60362,3,Utility Pole/Light Support,1,9999
 3,Not Reported,60362,4,Parked Motor Vehicle ,1,2
 0,12 Clock Point,60366,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60367,1,Pedestrian,1,9999
 0,12 Clock Point,60367,1,Pedestrian,1,9999
 0,12 Clock Point,60368,1,Pedestrian,1,9999
 0,12 Clock Point,60369,1,Motor Vehicle In-Transport ,1,2
@@ -818,7 +605,6 @@
 2,Non-Harmful Event,60384,3,Ran Off Roadway - Left,2,5555
 3,Non-Collision,60384,4,Fire/Explosion,2,9999
 0,12 Clock Point,60385,1,Pedestrian,1,9999
-0,12 Clock Point,60385,1,Pedestrian,1,9999
 0,12 Clock Point,60386,1,Motor Vehicle In-Transport ,1,2
 1,Right,60386,2,Motor Vehicle In-Transport ,1,2
 2,12 Clock Point,60386,3,Motor Vehicle In-Transport ,3,1
@@ -830,22 +616,6 @@
 3,10 Clock Point,60389,4,Curb,1,9999
 4,Non-Harmful Event,60389,5,Cross Median,1,5555
 5,12 Clock Point,60389,6,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60389,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,60389,2,"Post, Pole or Other Supports",1,9999
-2,12 Clock Point,60389,3,"Post, Pole or Other Supports",1,9999
-3,10 Clock Point,60389,4,Curb,1,9999
-4,Non-Harmful Event,60389,5,Cross Median,1,5555
-5,12 Clock Point,60389,6,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60391,1,Cross Centerline,1,5555
-1,Not Reported,60391,2,Pedestrian,1,9999
-2,Non-Harmful Event,60391,3,Ran Off Roadway - Left,1,5555
-3,Not Reported,60391,4,Parked Motor Vehicle ,1,2
-4,Not Reported,60391,5,Parked Motor Vehicle ,1,3
-0,Non-Harmful Event,60391,1,Cross Centerline,1,5555
-1,Not Reported,60391,2,Pedestrian,1,9999
-2,Non-Harmful Event,60391,3,Ran Off Roadway - Left,1,5555
-3,Not Reported,60391,4,Parked Motor Vehicle ,1,2
-4,Not Reported,60391,5,Parked Motor Vehicle ,1,3
 0,Non-Harmful Event,60391,1,Cross Centerline,1,5555
 1,Not Reported,60391,2,Pedestrian,1,9999
 2,Non-Harmful Event,60391,3,Ran Off Roadway - Left,1,5555
@@ -867,36 +637,19 @@
 1,12 Clock Point,60398,2,Guardrail End,1,9999
 0,12 Clock Point,60400,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60400,2,Ran Off Roadway - Right,1,5555
-0,12 Clock Point,60400,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60400,2,Ran Off Roadway - Right,1,5555
-0,12 Clock Point,60400,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60400,2,Ran Off Roadway - Right,1,5555
 0,12 Clock Point,60402,1,Motor Vehicle In-Transport ,2,1
-0,12 Clock Point,60403,1,Motor Vehicle In-Transport ,2,1
-0,12 Clock Point,60403,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,60403,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,60405,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,60405,2,Guardrail Face,1,9999
 0,Non-Harmful Event,60407,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60407,2,Parked Motor Vehicle ,1,3
 2,9 Clock Point,60407,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60407,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60407,2,Parked Motor Vehicle ,1,3
-2,9 Clock Point,60407,3,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60408,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,60408,2,Rollover/Overturn,1,9999
-2,Undercarriage,60408,3,Motor Vehicle In-Transport ,3,1
 0,12 Clock Point,60408,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,60408,2,Rollover/Overturn,1,9999
 2,Undercarriage,60408,3,Motor Vehicle In-Transport ,3,1
 0,Non-Harmful Event,60410,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,60410,2,Curb,1,9999
 2,Not Reported,60410,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60413,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,60413,2,Curb,1,9999
-2,Not Reported,60413,3,Other Object (not fixed),1,9999
-3,Not Reported,60413,4,Pedestrian,1,9999
-4,Not Reported,60413,5,Other Object (not fixed),1,9999
 0,Non-Harmful Event,60413,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,60413,2,Curb,1,9999
 2,Not Reported,60413,3,Other Object (not fixed),1,9999
@@ -914,8 +667,6 @@
 1,Non-Harmful Event,60420,2,Ran Off Roadway - Left,2,9999
 2,Left-Front Half,60420,3,Guardrail Face,2,9999
 3,Non-Collision,60420,4,Rollover/Overturn,2,9999
-0,12 Clock Point,60423,1,Motor Vehicle In-Transport ,1,2
-1,Undercarriage,60423,2,Motor Vehicle In-Transport ,3,1
 0,12 Clock Point,60423,1,Motor Vehicle In-Transport ,1,2
 1,Undercarriage,60423,2,Motor Vehicle In-Transport ,3,1
 0,Non-Harmful Event,60428,1,Ran Off Roadway - Right,1,5555
@@ -948,7 +699,6 @@
 0,12 Clock Point,60441,1,Pedestrian,1,9999
 0,10 Clock Point,60442,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60443,1,Non-Motorist on Personal Conveyance,1,9999
-0,12 Clock Point,60443,1,Non-Motorist on Personal Conveyance,1,9999
 0,Non-Harmful Event,60445,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60445,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,60445,3,Embankment,1,9999
@@ -975,11 +725,6 @@
 3,12 Clock Point,60452,4,Embankment,1,9999
 0,Non-Harmful Event,60453,1,Ran Off Roadway - Right,1,5555
 1,Left,60453,2,Guardrail End,1,9999
-0,Non-Harmful Event,60453,1,Ran Off Roadway - Right,1,5555
-1,Left,60453,2,Guardrail End,1,9999
-0,Non-Harmful Event,60453,1,Ran Off Roadway - Right,1,5555
-1,Left,60453,2,Guardrail End,1,9999
-0,12 Clock Point,60458,1,Pedestrian,1,9999
 0,12 Clock Point,60458,1,Pedestrian,1,9999
 0,Non-Collision,60459,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,60459,2,Cross Centerline,1,5555
@@ -999,11 +744,6 @@
 11,Non-Collision,60463,12,Fire/Explosion,1,9999
 0,12 Clock Point,60465,1,Pedestrian,1,9999
 0,12 Clock Point,60468,1,Pedestrian,1,9999
-0,12 Clock Point,60468,1,Pedestrian,1,9999
-0,12 Clock Point,60468,1,Pedestrian,1,9999
-0,12 Clock Point,60468,1,Pedestrian,1,9999
-0,12 Clock Point,60468,1,Pedestrian,1,9999
-0,12 Clock Point,60468,1,Pedestrian,1,9999
 0,Non-Harmful Event,60470,1,Cross Centerline,1,5555
 1,12 Clock Point,60470,2,Motor Vehicle In-Transport ,2,1
 2,Non-Collision,60470,3,Fell/Jumped from Vehicle,2,9999
@@ -1014,16 +754,9 @@
 0,Non-Harmful Event,60478,1,Cross Centerline,1,5555
 1,Non-Collision,60478,2,Rollover/Overturn,2,9999
 2,Not Reported,60478,3,Motor Vehicle In-Transport ,2,1
-0,Non-Harmful Event,60478,1,Cross Centerline,1,5555
-1,Non-Collision,60478,2,Rollover/Overturn,2,9999
-2,Not Reported,60478,3,Motor Vehicle In-Transport ,2,1
-0,Non-Harmful Event,60478,1,Cross Centerline,1,5555
-1,Non-Collision,60478,2,Rollover/Overturn,2,9999
-2,Not Reported,60478,3,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,60481,1,Non-Motorist on Personal Conveyance,1,9999
 0,12 Clock Point,60482,1,Pedestrian,1,9999
 0,12 Clock Point,60483,1,Pedestrian,1,9999
-0,12 Clock Point,60484,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,60484,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,60486,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60486,2,Ran Off Roadway - Left,1,5555
@@ -1032,20 +765,9 @@
 0,Non-Harmful Event,60490,1,Ran Off Roadway - Right,1,5555
 1,Right-Front Side,60490,2,Parked Motor Vehicle ,1,2
 2,Right-Front Side,60490,3,Pedestrian,1,9999
-0,Non-Harmful Event,60490,1,Ran Off Roadway - Right,1,5555
-1,Right-Front Side,60490,2,Parked Motor Vehicle ,1,2
-2,Right-Front Side,60490,3,Pedestrian,1,9999
 0,Non-Harmful Event,60491,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60491,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,60491,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60491,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60491,2,Ran Off Roadway - Left,1,5555
-2,Not Reported,60491,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60493,1,Cross Centerline,1,9999
-1,Non-Harmful Event,60493,2,Ran Off Roadway - Left,1,9999
-2,Undercarriage,60493,3,Curb,1,9999
-3,12 Clock Point,60493,4,Traffic Signal Support,1,9999
-4,Non-Collision,60493,5,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60493,1,Cross Centerline,1,9999
 1,Non-Harmful Event,60493,2,Ran Off Roadway - Left,1,9999
 2,Undercarriage,60493,3,Curb,1,9999
@@ -1058,16 +780,12 @@
 3,Not Reported,60495,4,Shrubbery,1,9999
 4,Not Reported,60495,5,Guardrail Face,1,9999
 0,Right,60496,1,Pedestrian,1,9999
-0,Right,60496,1,Pedestrian,1,9999
 0,Right-Front Half,60497,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60498,1,Motor Vehicle In-Transport ,1,2
 1,Not Reported,60498,2,Motor Vehicle In-Transport ,1,4
 2,11 Clock Point,60498,3,Motor Vehicle In-Transport ,2,3
 0,Non-Harmful Event,60499,1,Ran Off Roadway - Left,1,9999
 1,Non-Collision,60499,2,Rollover/Overturn,1,9999
-0,Non-Collision,60500,1,Rollover/Overturn,1,9999
-1,Non-Harmful Event,60500,2,Ran Off Roadway - Right,1,5555
-2,Not Reported,60500,3,Boulder,1,9999
 0,Non-Collision,60500,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,60500,2,Ran Off Roadway - Right,1,5555
 2,Not Reported,60500,3,Boulder,1,9999
@@ -1079,24 +797,12 @@
 0,Non-Harmful Event,60503,1,Ran Off Roadway - Left,1,5555
 1,Non-Collision,60503,2,Rollover/Overturn,1,9999
 2,12 Clock Point,60503,3,Concrete Traffic Barrier,1,9999
-0,Non-Harmful Event,60503,1,Ran Off Roadway - Left,1,5555
-1,Non-Collision,60503,2,Rollover/Overturn,1,9999
-2,12 Clock Point,60503,3,Concrete Traffic Barrier,1,9999
 0,12 Clock Point,60505,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60505,1,Motor Vehicle In-Transport ,1,2
-0,Left-Front Half,60506,1,Pedalcyclist,1,9999
 0,Left-Front Half,60506,1,Pedalcyclist,1,9999
 0,Non-Harmful Event,60507,1,Ran Off Roadway - Right,1,5555
 1,Right,60507,2,Tree (Standing Only),1,9999
 0,Non-Harmful Event,60508,1,Cross Centerline,1,5555
 1,12 Clock Point,60508,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60508,1,Cross Centerline,1,5555
-1,12 Clock Point,60508,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60508,1,Cross Centerline,1,5555
-1,12 Clock Point,60508,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60509,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60509,2,Ran Off Roadway - Left,2,5555
-2,12 Clock Point,60509,3,Tree (Standing Only),2,9999
 0,12 Clock Point,60509,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60509,2,Ran Off Roadway - Left,2,5555
 2,12 Clock Point,60509,3,Tree (Standing Only),2,9999
@@ -1116,7 +822,6 @@
 4,Not Reported,60513,5,Other Fixed Object,1,9999
 5,Not Reported,60513,6,Pedestrian,1,9999
 6,Not Reported,60513,7,Pedestrian,1,9999
-0,12 Clock Point,60514,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60514,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60516,1,Ran Off Roadway - Right,1,5555
 1,Right,60516,2,Guardrail Face,1,9999
@@ -1166,28 +871,11 @@
 2,Non-Harmful Event,60550,3,Ran Off Roadway - Left,1,5555
 3,Not Reported,60550,4,Guardrail Face,1,9999
 4,Other Objects Set-In-Motion,60550,5,Guardrail Face,1,9999
-0,Non-Harmful Event,60550,1,Cross Centerline,1,5555
-1,Non-Collision,60550,2,Rollover/Overturn,1,9999
-2,Non-Harmful Event,60550,3,Ran Off Roadway - Left,1,5555
-3,Not Reported,60550,4,Guardrail Face,1,9999
-4,Other Objects Set-In-Motion,60550,5,Guardrail Face,1,9999
 0,Non-Harmful Event,60552,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,60552,2,Guardrail Face,1,9999
 2,Not Reported,60552,3,Tree (Standing Only),1,9999
 3,Not Reported,60552,4,Parked Motor Vehicle ,1,2
 4,Non-Collision,60552,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60552,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,60552,2,Guardrail Face,1,9999
-2,Not Reported,60552,3,Tree (Standing Only),1,9999
-3,Not Reported,60552,4,Parked Motor Vehicle ,1,2
-4,Non-Collision,60552,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60552,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,60552,2,Guardrail Face,1,9999
-2,Not Reported,60552,3,Tree (Standing Only),1,9999
-3,Not Reported,60552,4,Parked Motor Vehicle ,1,2
-4,Non-Collision,60552,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60553,1,Cross Centerline,1,5555
-1,12 Clock Point,60553,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60553,1,Cross Centerline,1,5555
 1,12 Clock Point,60553,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60554,1,Ran Off Roadway - Left,1,5555
@@ -1201,9 +889,6 @@
 0,Non-Harmful Event,60557,1,Vehicle Went Airborne,1,5555
 1,12 Clock Point,60557,2,Pedestrian,1,9999
 2,12 Clock Point,60557,3,Parked Motor Vehicle ,1,2
-0,Non-Harmful Event,60557,1,Vehicle Went Airborne,1,5555
-1,12 Clock Point,60557,2,Pedestrian,1,9999
-2,12 Clock Point,60557,3,Parked Motor Vehicle ,1,2
 0,Non-Harmful Event,60558,1,Ran Off Roadway - Left,1,5555
 1,Non-Harmful Event,60558,2,Re-entering Roadway,1,5555
 2,Non-Collision,60558,3,Rollover/Overturn,1,9999
@@ -1214,23 +899,10 @@
 0,Non-Harmful Event,60565,1,Ran Off Roadway - Left,1,9999
 1,12 Clock Point,60565,2,Boulder,1,9999
 2,Non-Collision,60565,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60565,1,Ran Off Roadway - Left,1,9999
-1,12 Clock Point,60565,2,Boulder,1,9999
-2,Non-Collision,60565,3,Rollover/Overturn,1,9999
-0,12 Clock Point,60568,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60568,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60569,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,60569,2,Curb,1,9999
 2,12 Clock Point,60569,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60570,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60570,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,60570,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60570,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60570,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,60570,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60570,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60570,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,60570,3,Tree (Standing Only),1,9999
 0,Non-Harmful Event,60570,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60570,2,Ran Off Roadway - Left,1,5555
 2,12 Clock Point,60570,3,Tree (Standing Only),1,9999
@@ -1256,12 +928,8 @@
 1,12 Clock Point,60582,2,Boulder,1,9999
 2,Non-Collision,60582,3,Rollover/Overturn,1,9999
 0,12 Clock Point,60583,1,Pedestrian,1,9999
-0,12 Clock Point,60583,1,Pedestrian,1,9999
 0,12 Clock Point,60585,1,Pedestrian,1,9999
 0,12 Clock Point,60587,1,Pedalcyclist,1,9999
-0,12 Clock Point,60587,1,Pedalcyclist,1,9999
-0,12 Clock Point,60587,1,Pedalcyclist,1,9999
-0,Not Reported,60588,1,Pedestrian,1,9999
 0,Not Reported,60588,1,Pedestrian,1,9999
 0,Non-Harmful Event,60592,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,60592,2,Concrete Traffic Barrier,1,9999
@@ -1301,17 +969,6 @@
 8,Non-Collision,60604,9,Fell/Jumped from Vehicle,3,9999
 9,Non-Collision,60604,10,Rollover/Overturn,3,9999
 10,Non-Collision,60604,11,Fire/Explosion,3,9999
-0,Non-Harmful Event,60604,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60604,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,60604,3,Cross Centerline,1,5555
-3,12 Clock Point,60604,4,Motor Vehicle In-Transport ,1,2
-4,12 Clock Point,60604,5,Motor Vehicle In-Transport ,1,3
-5,Non-Collision,60604,6,Rollover/Overturn,2,9999
-6,Non-Harmful Event,60604,7,Ran Off Roadway - Left,1,5555
-7,Non-Collision,60604,8,Rollover/Overturn,1,9999
-8,Non-Collision,60604,9,Fell/Jumped from Vehicle,3,9999
-9,Non-Collision,60604,10,Rollover/Overturn,3,9999
-10,Non-Collision,60604,11,Fire/Explosion,3,9999
 0,12 Clock Point,60605,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60605,2,Ran Off Roadway - Right,2,5555
 2,Non-Collision,60605,3,Rollover/Overturn,2,9999
@@ -1331,12 +988,8 @@
 0,Non-Harmful Event,60613,1,Cross Median,1,5555
 1,12 Clock Point,60613,2,Motor Vehicle In-Transport ,1,2
 2,12 Clock Point,60613,3,Motor Vehicle In-Transport ,1,3
-0,Non-Harmful Event,60613,1,Cross Median,1,5555
-1,12 Clock Point,60613,2,Motor Vehicle In-Transport ,1,2
-2,12 Clock Point,60613,3,Motor Vehicle In-Transport ,1,3
 0,Non-Harmful Event,60614,1,Cross Centerline,1,5555
 1,5 Clock Point,60614,2,Pedalcyclist,1,9999
-0,12 Clock Point,60615,1,Pedestrian,1,9999
 0,12 Clock Point,60615,1,Pedestrian,1,9999
 0,12 Clock Point,60616,1,Pedestrian,1,9999
 0,Non-Harmful Event,60618,1,Ran Off Roadway - Left,1,5555
@@ -1344,12 +997,6 @@
 2,Undercarriage,60618,3,Curb,1,9999
 3,Non-Collision,60618,4,Rollover/Overturn,1,9999
 4,Not Reported,60618,5,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60618,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,60618,2,Curb,1,9999
-2,Undercarriage,60618,3,Curb,1,9999
-3,Non-Collision,60618,4,Rollover/Overturn,1,9999
-4,Not Reported,60618,5,Tree (Standing Only),1,9999
-0,Right,60619,1,Motor Vehicle In-Transport ,1,2
 0,Right,60619,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60621,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60621,2,Pedalcyclist,1,9999
@@ -1371,12 +1018,6 @@
 0,Non-Harmful Event,60631,1,Ran Off Roadway - Right,1,9999
 1,9 Clock Point,60631,2,Utility Pole/Light Support,1,9999
 0,12 Clock Point,60636,1,Pedestrian,1,9999
-0,12 Clock Point,60636,1,Pedestrian,1,9999
-0,12 Clock Point,60636,1,Pedestrian,1,9999
-0,Non-Harmful Event,60637,1,Ran Off Roadway - Right,1,9999
-1,Non-Harmful Event,60637,2,Re-entering Roadway,1,9999
-2,Non-Harmful Event,60637,3,Cross Centerline,1,9999
-3,12 Clock Point,60637,4,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,60637,1,Ran Off Roadway - Right,1,9999
 1,Non-Harmful Event,60637,2,Re-entering Roadway,1,9999
 2,Non-Harmful Event,60637,3,Cross Centerline,1,9999
@@ -1392,12 +1033,6 @@
 0,Non-Harmful Event,60641,1,Cross Centerline,1,5555
 1,Non-Collision,60641,2,Rollover/Overturn,1,9999
 2,Other Objects Set-In-Motion,60641,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,Non-Harmful Event,60641,1,Cross Centerline,1,5555
-1,Non-Collision,60641,2,Rollover/Overturn,1,9999
-2,Other Objects Set-In-Motion,60641,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,12 Clock Point,60647,1,Motor Vehicle In-Transport ,4,1
-1,12 Clock Point,60647,2,Motor Vehicle In-Transport ,2,4
-2,12 Clock Point,60647,3,Motor Vehicle In-Transport ,3,2
 0,12 Clock Point,60647,1,Motor Vehicle In-Transport ,4,1
 1,12 Clock Point,60647,2,Motor Vehicle In-Transport ,2,4
 2,12 Clock Point,60647,3,Motor Vehicle In-Transport ,3,2
@@ -1436,31 +1071,17 @@
 3,Non-Harmful Event,60675,4,Ran Off Roadway - Left,1,5555
 4,Left-Front Side,60675,5,Boulder,1,9999
 5,Non-Collision,60675,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60675,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60675,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,60675,3,Cross Centerline,1,5555
-3,Non-Harmful Event,60675,4,Ran Off Roadway - Left,1,5555
-4,Left-Front Side,60675,5,Boulder,1,9999
-5,Non-Collision,60675,6,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60677,1,Ran Off Roadway - Right,1,5555
 1,Unknown,60677,2,Tree (Standing Only),1,9999
 2,9 Clock Point,60677,3,Tree (Standing Only),1,9999
 0,Right-Front Side,60678,1,Pedestrian,1,9999
-0,Right-Front Side,60678,1,Pedestrian,1,9999
 0,Non-Harmful Event,60680,1,Ran Off Roadway - Right,1,5555
 1,Non-Collision,60680,2,Rollover/Overturn,1,9999
-0,12 Clock Point,60681,1,Pedestrian,1,9999
 0,12 Clock Point,60681,1,Pedestrian,1,9999
 0,Non-Harmful Event,60684,1,Ran Off Roadway - Right,1,5555
 1,6 Clock Point,60684,2,Impact Attenuator/Crash Cushion,1,9999
 2,Not Reported,60684,3,Impact Attenuator/Crash Cushion,1,9999
 0,12 Clock Point,60687,1,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60688,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60688,2,Re-entering Roadway,1,5555
-2,Non-Collision,60688,3,Rollover/Overturn,1,9999
-3,Non-Harmful Event,60688,4,Ran Off Roadway - Right,1,5555
-4,Not Reported,60688,5,Other Fixed Object,1,9999
-5,Other Objects Set-In-Motion,60688,6,Mail Box,1,9999
 0,Non-Harmful Event,60688,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,60688,2,Re-entering Roadway,1,5555
 2,Non-Collision,60688,3,Rollover/Overturn,1,9999
@@ -1489,10 +1110,6 @@
 1,12 Clock Point,60718,2,Motor Vehicle In-Transport ,1,2
 2,Non-Harmful Event,60718,3,Ran Off Roadway - Right,1,5555
 3,12 Clock Point,60718,4,Embankment,1,9999
-0,Non-Harmful Event,60718,1,Cross Centerline,1,5555
-1,12 Clock Point,60718,2,Motor Vehicle In-Transport ,1,2
-2,Non-Harmful Event,60718,3,Ran Off Roadway - Right,1,5555
-3,12 Clock Point,60718,4,Embankment,1,9999
 0,Non-Harmful Event,60719,1,Cross Median,1,5555
 1,Non-Harmful Event,60719,2,Re-entering Roadway,1,5555
 2,12 Clock Point,60719,3,Motor Vehicle In-Transport ,1,2
@@ -1508,9 +1125,6 @@
 1,Non-Harmful Event,60721,2,Ran Off Roadway - Left,1,5555
 2,6 Clock Point,60721,3,Tree (Standing Only),1,9999
 0,12 Clock Point,60722,1,Pedestrian,1,9999
-0,12 Clock Point,60722,1,Pedestrian,1,9999
-0,12 Clock Point,60722,1,Pedestrian,1,9999
-0,12 Clock Point,60722,1,Pedestrian,1,9999
 0,Non-Harmful Event,60723,1,Ran Off Roadway - Right,1,9999
 1,Undercarriage,60723,2,Curb,1,9999
 2,9 Clock Point,60723,3,Utility Pole/Light Support,1,9999
@@ -1524,9 +1138,6 @@
 2,Right,60732,3,Tree (Standing Only),1,9999
 0,12 Clock Point,60733,1,Motor Vehicle In-Transport ,1,2
 1,12 Clock Point,60733,2,Motor Vehicle In-Transport ,1,3
-0,Non-Harmful Event,60735,1,Cross Centerline,1,5555
-1,Non-Collision,60735,2,Rollover/Overturn,1,9999
-2,12 Clock Point,60735,3,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60735,1,Cross Centerline,1,5555
 1,Non-Collision,60735,2,Rollover/Overturn,1,9999
 2,12 Clock Point,60735,3,Motor Vehicle In-Transport ,1,2
@@ -1552,7 +1163,6 @@
 2,12 Clock Point,60754,3,Curb,1,9999
 3,12 Clock Point,60754,4,Tree (Standing Only),1,9999
 0,12 Clock Point,60755,1,Pedestrian,1,9999
-0,12 Clock Point,60755,1,Pedestrian,1,9999
 0,Non-Harmful Event,60760,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60760,2,Tree (Standing Only),1,9999
 2,Not Reported,60760,3,Fence,1,9999
@@ -1567,29 +1177,11 @@
 1,Other Objects Set-In-Motion,60763,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,3
 2,Not Reported,60763,3,Motor Vehicle In-Transport ,1,3
 0,12 Clock Point,60764,1,Pedestrian,1,9999
-0,12 Clock Point,60764,1,Pedestrian,1,9999
-0,Undercarriage,60766,1,Curb,1,9999
-1,Non-Collision,60766,2,Fell/Jumped from Vehicle,1,9999
-2,6 Clock Point,60766,3,Parked Motor Vehicle ,1,2
 0,Undercarriage,60766,1,Curb,1,9999
 1,Non-Collision,60766,2,Fell/Jumped from Vehicle,1,9999
 2,6 Clock Point,60766,3,Parked Motor Vehicle ,1,2
 0,12 Clock Point,60767,1,Motor Vehicle In-Transport ,2,1
 1,Non-Collision,60767,2,Rollover/Overturn,2,9999
-0,Non-Harmful Event,60772,1,Ran Off Roadway - Left,1,5555
-1,Left-Front Side,60772,2,Impact Attenuator/Crash Cushion,1,9999
-2,Non-Collision,60772,3,Rollover/Overturn,1,9999
-3,Non-Harmful Event,60772,4,Cargo/Equipment Loss or Shift (non-harmful) ,1,5555
-4,Cargo/Vehicle Parts Set-In-Motion,60772,5,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
-5,12 Clock Point,60772,6,Motor Vehicle In-Transport ,2,1
-6,Cargo/Vehicle Parts Set-In-Motion,60772,7,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,4
-0,Non-Harmful Event,60772,1,Ran Off Roadway - Left,1,5555
-1,Left-Front Side,60772,2,Impact Attenuator/Crash Cushion,1,9999
-2,Non-Collision,60772,3,Rollover/Overturn,1,9999
-3,Non-Harmful Event,60772,4,Cargo/Equipment Loss or Shift (non-harmful) ,1,5555
-4,Cargo/Vehicle Parts Set-In-Motion,60772,5,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
-5,12 Clock Point,60772,6,Motor Vehicle In-Transport ,2,1
-6,Cargo/Vehicle Parts Set-In-Motion,60772,7,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,4
 0,Non-Harmful Event,60772,1,Ran Off Roadway - Left,1,5555
 1,Left-Front Side,60772,2,Impact Attenuator/Crash Cushion,1,9999
 2,Non-Collision,60772,3,Rollover/Overturn,1,9999
@@ -1606,8 +1198,6 @@
 0,12 Clock Point,60789,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,60789,2,Rollover/Overturn,1,9999
 0,12 Clock Point,60793,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60793,1,Motor Vehicle In-Transport ,1,2
-0,Undercarriage,60794,1,Pedestrian,1,9999
 0,Undercarriage,60794,1,Pedestrian,1,9999
 0,Undercarriage,60796,1,Ground,1,9999
 1,Non-Harmful Event,60796,2,Ran Off Roadway - Left,1,5555
@@ -1615,30 +1205,11 @@
 3,12 Clock Point,60796,4,Tree (Standing Only),1,9999
 4,Other Objects Set-In-Motion,60796,5,Parked Motor Vehicle ,1,2
 5,12 Clock Point,60796,6,Building,1,9999
-0,Undercarriage,60796,1,Ground,1,9999
-1,Non-Harmful Event,60796,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,60796,3,Curb,1,9999
-3,12 Clock Point,60796,4,Tree (Standing Only),1,9999
-4,Other Objects Set-In-Motion,60796,5,Parked Motor Vehicle ,1,2
-5,12 Clock Point,60796,6,Building,1,9999
-0,Undercarriage,60796,1,Ground,1,9999
-1,Non-Harmful Event,60796,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,60796,3,Curb,1,9999
-3,12 Clock Point,60796,4,Tree (Standing Only),1,9999
-4,Other Objects Set-In-Motion,60796,5,Parked Motor Vehicle ,1,2
-5,12 Clock Point,60796,6,Building,1,9999
-0,12 Clock Point,60797,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60797,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60801,1,Pedestrian,1,9999
 0,Non-Harmful Event,60802,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,60802,2,Fence,1,9999
 2,Non-Collision,60802,3,Fell/Jumped from Vehicle,1,9999
-0,Non-Harmful Event,60802,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,60802,2,Fence,1,9999
-2,Non-Collision,60802,3,Fell/Jumped from Vehicle,1,9999
-0,Non-Harmful Event,60803,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60803,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,60803,3,Tree (Standing Only),1,9999
 0,Non-Harmful Event,60803,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60803,2,Ran Off Roadway - Left,1,5555
 2,12 Clock Point,60803,3,Tree (Standing Only),1,9999
@@ -1660,14 +1231,7 @@
 7,9 Clock Point,60807,8,Shrubbery,1,9999
 0,Non-Harmful Event,60808,1,Cross Centerline,1,5555
 1,10 Clock Point,60808,2,Motor Vehicle In-Transport ,2,1
-0,Non-Harmful Event,60808,1,Cross Centerline,1,5555
-1,10 Clock Point,60808,2,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,60809,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60809,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,60809,1,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,60812,1,Ran Off Roadway - Right,1,9999
-1,12 Clock Point,60812,2,Tree (Standing Only),1,9999
-2,Non-Collision,60812,3,Fire/Explosion,1,9999
 0,Non-Harmful Event,60812,1,Ran Off Roadway - Right,1,9999
 1,12 Clock Point,60812,2,Tree (Standing Only),1,9999
 2,Non-Collision,60812,3,Fire/Explosion,1,9999
@@ -1679,21 +1243,11 @@
 0,Non-Harmful Event,60816,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,60816,2,Guardrail Face,1,9999
 2,6 Clock Point,60816,3,Guardrail Face,1,9999
-0,Non-Harmful Event,60816,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,60816,2,Guardrail Face,1,9999
-2,6 Clock Point,60816,3,Guardrail Face,1,9999
-0,Non-Harmful Event,60816,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,60816,2,Guardrail Face,1,9999
-2,6 Clock Point,60816,3,Guardrail Face,1,9999
 0,12 Clock Point,60819,1,Pedestrian,1,9999
 0,12 Clock Point,60820,1,Pedestrian,1,9999
 0,12 Clock Point,60821,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60821,2,Ran Off Roadway - Right,1,5555
 2,6 Clock Point,60821,3,Guardrail Face,1,9999
-0,2 Clock Point,60824,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60824,2,Ran Off Roadway - Left,1,5555
-2,Not Reported,60824,3,Concrete Traffic Barrier,1,9999
-3,Other Objects Set-In-Motion,60824,4,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
 0,2 Clock Point,60824,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60824,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,60824,3,Concrete Traffic Barrier,1,9999
@@ -1713,13 +1267,6 @@
 7,Non-Collision,60835,8,Rollover/Overturn,1,9999
 8,Not Reported,60835,9,Tree (Standing Only),1,9999
 0,12 Clock Point,60836,1,Pedalcyclist,1,9999
-0,12 Clock Point,60836,1,Pedalcyclist,1,9999
-0,Non-Harmful Event,60837,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,60837,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,60837,3,Cross Centerline,1,5555
-3,Non-Harmful Event,60837,4,Ran Off Roadway - Left,1,5555
-4,Not Reported,60837,5,Boulder,1,9999
-5,Non-Collision,60837,6,Rollover/Overturn,1,9999
 0,Non-Harmful Event,60837,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,60837,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,60837,3,Cross Centerline,1,5555
@@ -1749,15 +1296,6 @@
 0,12 Clock Point,60850,1,Pedestrian,1,9999
 0,Non-Harmful Event,60851,1,Ran Off Roadway - Right,1,5555
 1,Left-Front Side,60851,2,Traffic Signal Support,1,9999
-0,Non-Harmful Event,60851,1,Ran Off Roadway - Right,1,5555
-1,Left-Front Side,60851,2,Traffic Signal Support,1,9999
-0,Non-Harmful Event,60853,1,Ran Off Roadway - Left,1,9999
-1,Non-Harmful Event,60853,2,Cross Median,1,9999
-2,Non-Collision,60853,3,Rollover/Overturn,1,9999
-3,Top,60853,4,Motor Vehicle In-Transport ,1,2
-4,Non-Collision,60853,5,Rollover/Overturn,1,9999
-5,Top,60853,6,Motor Vehicle In-Transport ,1,3
-6,Non-Collision,60853,7,Rollover/Overturn,3,9999
 0,Non-Harmful Event,60853,1,Ran Off Roadway - Left,1,9999
 1,Non-Harmful Event,60853,2,Cross Median,1,9999
 2,Non-Collision,60853,3,Rollover/Overturn,1,9999
@@ -1781,9 +1319,6 @@
 3,Not Reported,60864,4,Curb,1,9999
 4,Not Reported,60864,5,Traffic Sign Support ,1,9999
 0,12 Clock Point,60865,1,Pedestrian,1,9999
-0,12 Clock Point,60865,1,Pedestrian,1,9999
-0,Non-Harmful Event,60866,1,Cross Centerline,1,5555
-1,12 Clock Point,60866,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60866,1,Cross Centerline,1,5555
 1,12 Clock Point,60866,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,60868,1,Ran Off Roadway - Right,1,5555
@@ -1820,13 +1355,6 @@
 1,12 Clock Point,60886,2,Boulder,1,9999
 2,Non-Collision,60886,3,Fell/Jumped from Vehicle,1,9999
 3,Non-Collision,60886,4,Rollover/Overturn,1,9999
-0,Non-Harmful Event,60886,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60886,2,Boulder,1,9999
-2,Non-Collision,60886,3,Fell/Jumped from Vehicle,1,9999
-3,Non-Collision,60886,4,Rollover/Overturn,1,9999
-0,Non-Collision,60888,1,Rollover/Overturn,1,9999
-1,Not Reported,60888,2,Culvert,1,9999
-2,Non-Collision,60888,3,Rollover/Overturn,1,9999
 0,Non-Collision,60888,1,Rollover/Overturn,1,9999
 1,Not Reported,60888,2,Culvert,1,9999
 2,Non-Collision,60888,3,Rollover/Overturn,1,9999
@@ -1855,16 +1383,6 @@
 2,Non-Collision,60902,3,Rollover/Overturn,1,9999
 3,Not Reported,60902,4,Fence,1,9999
 0,Undercarriage,60907,1,Pedestrian,1,9999
-0,Undercarriage,60907,1,Pedestrian,1,9999
-0,Non-Harmful Event,60908,1,Cross Centerline,1,5555
-1,Non-Harmful Event,60908,2,End Departure,1,9999
-2,12 Clock Point,60908,3,Curb,1,9999
-3,12 Clock Point,60908,4,Pedestrian,1,9999
-4,12 Clock Point,60908,5,Other Fixed Object,1,9999
-5,12 Clock Point,60908,6,Tree (Standing Only),1,9999
-6,12 Clock Point,60908,7,Tree (Standing Only),1,9999
-7,1 Clock Point,60908,8,Fence,1,9999
-8,Undercarriage,60908,9,Tree (Standing Only),1,9999
 0,Non-Harmful Event,60908,1,Cross Centerline,1,5555
 1,Non-Harmful Event,60908,2,End Departure,1,9999
 2,12 Clock Point,60908,3,Curb,1,9999
@@ -1875,7 +1393,6 @@
 7,1 Clock Point,60908,8,Fence,1,9999
 8,Undercarriage,60908,9,Tree (Standing Only),1,9999
 0,12 Clock Point,60912,1,Motor Vehicle In-Transport ,1,2
-0,Unknown,60915,1,Pedestrian,1,9999
 0,Unknown,60915,1,Pedestrian,1,9999
 0,11 Clock Point,60916,1,Pedestrian,1,9999
 0,Non-Harmful Event,60917,1,Ran Off Roadway - Right,1,5555
@@ -1898,14 +1415,6 @@
 0,Non-Harmful Event,60921,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,60921,2,Shrubbery,1,9999
 2,12 Clock Point,60921,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,60921,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60921,2,Shrubbery,1,9999
-2,12 Clock Point,60921,3,Tree (Standing Only),1,9999
-0,Left-Front Side,60923,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,60923,2,Ran Off Roadway - Left,1,5555
-2,Not Reported,60923,3,Curb,1,9999
-3,12 Clock Point,60923,4,Tree (Standing Only),1,9999
-4,Not Reported,60923,5,Tree (Standing Only),1,9999
 0,Left-Front Side,60923,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,60923,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,60923,3,Curb,1,9999
@@ -1959,9 +1468,6 @@
 0,Non-Harmful Event,60962,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,60962,2,Curb,1,9999
 2,Other Objects Set-In-Motion,60962,3,Wall,1,9999
-0,Non-Harmful Event,60962,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,60962,2,Curb,1,9999
-2,Other Objects Set-In-Motion,60962,3,Wall,1,9999
 0,Non-Harmful Event,60963,1,Cross Median,1,5555
 1,6 Clock Point,60963,2,Motor Vehicle In-Transport ,1,2
 2,Non-Harmful Event,60963,3,Ran Off Roadway - Right,2,5555
@@ -1989,18 +1495,11 @@
 2,Non-Harmful Event,60973,3,Vehicle Went Airborne,1,5555
 3,9 Clock Point,60973,4,Tree (Standing Only),1,9999
 4,3 Clock Point,60973,5,Shrubbery,1,9999
-0,Non-Harmful Event,60973,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,60973,2,Fence,1,9999
-2,Non-Harmful Event,60973,3,Vehicle Went Airborne,1,5555
-3,9 Clock Point,60973,4,Tree (Standing Only),1,9999
-4,3 Clock Point,60973,5,Shrubbery,1,9999
 0,Non-Harmful Event,60976,1,Cross Centerline,1,5555
 1,Right,60976,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,60978,1,Pedestrian,1,9999
 0,12 Clock Point,60979,1,Pedestrian,1,9999
 1,Undercarriage,60979,2,Pedestrian,2,9999
-0,Right-Front Side,60984,1,Pedestrian,1,9999
-1,Right-Front Side,60984,2,Pedestrian,1,9999
 0,Right-Front Side,60984,1,Pedestrian,1,9999
 1,Right-Front Side,60984,2,Pedestrian,1,9999
 0,12 Clock Point,60985,1,Motor Vehicle In-Transport ,1,2
@@ -2011,8 +1510,6 @@
 3,Right,60989,4,Parked Motor Vehicle ,1,5
 4,Right,60989,5,Parked Motor Vehicle ,1,6
 5,Right,60989,6,Parked Motor Vehicle ,1,7
-0,12 Clock Point,60991,1,Pedestrian,1,9999
-0,12 Clock Point,60991,1,Pedestrian,1,9999
 0,12 Clock Point,60991,1,Pedestrian,1,9999
 0,Non-Harmful Event,60993,1,Cross Centerline,1,5555
 1,2 Clock Point,60993,2,Motor Vehicle In-Transport ,1,2
@@ -2031,7 +1528,6 @@
 0,Non-Harmful Event,60998,1,Cross Centerline,1,5555
 1,12 Clock Point,60998,2,Motor Vehicle In-Transport ,1,2
 0,Left,61001,1,Motor Vehicle In-Transport ,2,1
-0,Left,61001,1,Motor Vehicle In-Transport ,2,1
 0,1 Clock Point,61003,1,Pedestrian,1,9999
 0,Non-Harmful Event,61004,1,Cross Centerline,1,5555
 1,12 Clock Point,61004,2,Motor Vehicle In-Transport ,1,2
@@ -2049,16 +1545,6 @@
 0,12 Clock Point,61016,1,Pedestrian,1,9999
 1,12 Clock Point,61016,2,Pedestrian,1,9999
 2,12 Clock Point,61016,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61017,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61017,2,Pedalcyclist,1,9999
-2,12 Clock Point,61017,3,"Post, Pole or Other Supports",1,9999
-3,12 Clock Point,61017,4,Mail Box,1,9999
-4,12 Clock Point,61017,5,Parked Motor Vehicle ,1,2
-0,Non-Harmful Event,61017,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61017,2,Pedalcyclist,1,9999
-2,12 Clock Point,61017,3,"Post, Pole or Other Supports",1,9999
-3,12 Clock Point,61017,4,Mail Box,1,9999
-4,12 Clock Point,61017,5,Parked Motor Vehicle ,1,2
 0,Non-Harmful Event,61017,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61017,2,Pedalcyclist,1,9999
 2,12 Clock Point,61017,3,"Post, Pole or Other Supports",1,9999
@@ -2116,7 +1602,6 @@
 4,12 Clock Point,61040,5,Utility Pole/Light Support,1,9999
 5,Non-Collision,61040,6,Fire/Explosion,1,9999
 0,12 Clock Point,61041,1,Pedalcyclist,1,9999
-0,12 Clock Point,61041,1,Pedalcyclist,1,9999
 0,12 Clock Point,61042,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,61042,2,Ran Off Roadway - Right,1,5555
 2,Not Reported,61042,3,Curb,1,9999
@@ -2125,13 +1610,6 @@
 5,12 Clock Point,61042,6,Parked Motor Vehicle ,1,3
 6,Other Objects Set-In-Motion,61042,7,Parked Motor Vehicle ,1,4
 0,12 Clock Point,61046,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61046,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61047,1,Pedestrian,1,9999
-1,12 Clock Point,61047,2,Pedestrian,2,9999
-0,12 Clock Point,61047,1,Pedestrian,1,9999
-1,12 Clock Point,61047,2,Pedestrian,2,9999
-0,12 Clock Point,61047,1,Pedestrian,1,9999
-1,12 Clock Point,61047,2,Pedestrian,2,9999
 0,12 Clock Point,61047,1,Pedestrian,1,9999
 1,12 Clock Point,61047,2,Pedestrian,2,9999
 0,12 Clock Point,61049,1,Parked Motor Vehicle ,1,2
@@ -2153,11 +1631,6 @@
 1,Set-In-Motion (Not a Clock Value),61059,2,Motor Vehicle In-Transport ,2,1
 2,Not Reported,61059,3,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61060,1,Pedestrian,1,9999
-0,Non-Harmful Event,61063,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,61063,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,61063,3,Ran Off Roadway - Left,1,5555
-3,Non-Harmful Event,61063,4,Cross Median,1,5555
-4,Non-Collision,61063,5,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61063,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,61063,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,61063,3,Ran Off Roadway - Left,1,5555
@@ -2229,7 +1702,6 @@
 1,12 Clock Point,61102,2,Motor Vehicle In-Transport ,1,2
 2,Right-Back Side,61102,3,Motor Vehicle In-Transport ,1,3
 0,Left-Back Side,61104,1,Motor Vehicle In-Transport ,1,2
-0,Left-Back Side,61104,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61106,1,Ran Off Roadway - Right,1,5555
 1,Non-Collision,61106,2,Rollover/Overturn,1,9999
 0,12 Clock Point,61107,1,Pedestrian,1,9999
@@ -2259,18 +1731,10 @@
 2,Not Reported,61127,3,Traffic Signal Support,1,9999
 3,Not Reported,61127,4,Traffic Signal Support,1,9999
 4,12 Clock Point,61127,5,Utility Pole/Light Support,1,9999
-0,Non-Harmful Event,61127,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61127,2,Curb,1,9999
-2,Not Reported,61127,3,Traffic Signal Support,1,9999
-3,Not Reported,61127,4,Traffic Signal Support,1,9999
-4,12 Clock Point,61127,5,Utility Pole/Light Support,1,9999
-0,12 Clock Point,61129,1,Pedestrian,1,9999
 0,12 Clock Point,61129,1,Pedestrian,1,9999
 0,Non-Harmful Event,61132,1,Cross Centerline,1,5555
 1,Non-Collision,61132,2,Rollover/Overturn,1,9999
 2,Not Reported,61132,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61133,1,End Departure,1,9999
-1,12 Clock Point,61133,2,Wall,1,9999
 0,Non-Harmful Event,61133,1,End Departure,1,9999
 1,12 Clock Point,61133,2,Wall,1,9999
 0,Non-Harmful Event,61134,1,Ran Off Roadway - Right,1,9999
@@ -2283,7 +1747,6 @@
 0,Non-Collision,61135,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,61135,2,Cross Centerline,1,5555
 2,Not Reported,61135,3,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61139,1,Pedestrian,1,9999
 0,12 Clock Point,61139,1,Pedestrian,1,9999
 0,Non-Harmful Event,61140,1,Cross Centerline,1,5555
 1,12 Clock Point,61140,2,Motor Vehicle In-Transport ,1,2
@@ -2298,18 +1761,9 @@
 1,Not Reported,61147,2,Motor Vehicle In-Transport ,1,3
 2,Non-Harmful Event,61147,3,Ran Off Roadway - Right,1,5555
 3,12 Clock Point,61147,4,Wall,1,9999
-0,12 Clock Point,61147,1,Motor Vehicle In-Transport ,1,2
-1,Not Reported,61147,2,Motor Vehicle In-Transport ,1,3
-2,Non-Harmful Event,61147,3,Ran Off Roadway - Right,1,5555
-3,12 Clock Point,61147,4,Wall,1,9999
 0,12 Clock Point,61151,1,Pedestrian,1,9999
 0,Non-Harmful Event,61152,1,Cross Centerline,1,5555
 1,12 Clock Point,61152,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61156,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,61156,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,61156,3,Concrete Traffic Barrier,1,9999
-3,Non-Collision,61156,4,Fire/Explosion,1,9999
-4,Non-Collision,61156,5,Fire/Explosion,2,9999
 0,12 Clock Point,61156,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,61156,2,Ran Off Roadway - Left,1,5555
 2,12 Clock Point,61156,3,Concrete Traffic Barrier,1,9999
@@ -2319,7 +1773,6 @@
 1,Left-Front Side,61157,2,Traffic Sign Support ,1,9999
 2,Right-Back Side,61157,3,Shrubbery,1,9999
 3,9 Clock Point,61157,4,Tree (Standing Only),1,9999
-0,12 Clock Point,61158,1,Pedestrian,1,9999
 0,12 Clock Point,61158,1,Pedestrian,1,9999
 0,Non-Harmful Event,61159,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61159,2,Cross Centerline,1,5555
@@ -2339,10 +1792,6 @@
 0,Non-Harmful Event,61165,1,Ran Off Roadway - Right,1,5555
 1,Right,61165,2,Fence,1,9999
 2,12 Clock Point,61165,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61165,1,Ran Off Roadway - Right,1,5555
-1,Right,61165,2,Fence,1,9999
-2,12 Clock Point,61165,3,Tree (Standing Only),1,9999
-0,12 Clock Point,61168,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61168,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61176,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61176,2,Bridge Rail (Includes parapet),1,9999
@@ -2374,12 +1823,6 @@
 3,Non-Harmful Event,61185,4,Re-entering Roadway,1,5555
 4,Non-Harmful Event,61185,5,Ran Off Roadway - Right,1,5555
 5,Non-Collision,61185,6,Rollover/Overturn,1,9999
-0,Right-Front Side,61185,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,61185,2,Ran Off Roadway - Left,1,5555
-2,Non-Harmful Event,61185,3,Vehicle Went Airborne,1,5555
-3,Non-Harmful Event,61185,4,Re-entering Roadway,1,5555
-4,Non-Harmful Event,61185,5,Ran Off Roadway - Right,1,5555
-5,Non-Collision,61185,6,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61187,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61187,2,Ran Off Roadway - Left,1,5555
 2,Left,61187,3,Parked Motor Vehicle ,1,3
@@ -2397,7 +1840,6 @@
 7,Non-Collision,61188,8,Fire/Explosion,1,9999
 0,12 Clock Point,61190,1,Non-Motorist on Personal Conveyance,1,9999
 0,12 Clock Point,61193,1,Pedestrian,1,9999
-0,12 Clock Point,61193,1,Pedestrian,1,9999
 0,Not Reported,61195,1,Other Object (not fixed),1,9999
 1,Non-Harmful Event,61195,2,Cross Centerline,1,5555
 2,Not Reported,61195,3,Motor Vehicle In-Transport ,1,2
@@ -2408,10 +1850,6 @@
 1,Non-Collision,61201,2,Rollover/Overturn,1,9999
 2,Not Reported,61201,3,Guardrail Face,1,9999
 3,Not Reported,61201,4,"Other Post, Other Pole or Other Supports",1,9999
-0,Non-Harmful Event,61204,1,Cross Centerline,1,5555
-1,Non-Harmful Event,61204,2,Ran Off Roadway - Right,2,5555
-2,Non-Harmful Event,61204,3,Ran Off Roadway - Left,1,5555
-3,12 Clock Point,61204,4,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61204,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61204,2,Ran Off Roadway - Right,2,5555
 2,Non-Harmful Event,61204,3,Ran Off Roadway - Left,1,5555
@@ -2443,16 +1881,10 @@
 0,Non-Harmful Event,61222,1,Ran Off Roadway - Right,1,9999
 1,12 Clock Point,61222,2,"Other Post, Other Pole or Other Supports",1,9999
 2,12 Clock Point,61222,3,Embankment,1,9999
-0,Non-Harmful Event,61222,1,Ran Off Roadway - Right,1,9999
-1,12 Clock Point,61222,2,"Other Post, Other Pole or Other Supports",1,9999
-2,12 Clock Point,61222,3,Embankment,1,9999
 0,12 Clock Point,61223,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61225,1,Pedestrian,1,9999
 0,Non-Harmful Event,61227,1,Cross Centerline,1,9999
 1,6 Clock Point,61227,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61227,1,Cross Centerline,1,9999
-1,6 Clock Point,61227,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61229,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61229,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61231,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61231,2,Parked Motor Vehicle ,1,2
@@ -2473,7 +1905,6 @@
 3,Non-Collision,61240,4,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61242,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61242,2,Parked Motor Vehicle ,1,2
-0,12 Clock Point,61243,1,Pedestrian,1,9999
 0,12 Clock Point,61243,1,Pedestrian,1,9999
 0,12 Clock Point,61244,1,Pedestrian,1,9999
 1,Reported as Unknown,61244,2,Pedestrian,2,9999
@@ -2511,12 +1942,9 @@
 5,Not Reported,61258,6,Motor Vehicle In-Transport ,1,4
 0,Non-Harmful Event,61262,1,Cross Centerline,1,5555
 1,12 Clock Point,61262,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61262,1,Cross Centerline,1,5555
-1,12 Clock Point,61262,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61267,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,61267,2,Ran Off Roadway - Left,1,5555
 2,Right-Back Side,61267,3,Tree (Standing Only),1,9999
-0,12 Clock Point,61268,1,Pedestrian,1,9999
 0,12 Clock Point,61268,1,Pedestrian,1,9999
 0,12 Clock Point,61269,1,Pedestrian,1,9999
 0,Non-Harmful Event,61272,1,Ran Off Roadway - Left,1,5555
@@ -2535,8 +1963,6 @@
 0,11 Clock Point,61274,1,Pedestrian,1,9999
 0,Non-Harmful Event,61277,1,Cross Centerline,1,5555
 1,12 Clock Point,61277,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61277,1,Cross Centerline,1,5555
-1,12 Clock Point,61277,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61279,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61280,1,Motor Vehicle In-Transport ,1,2
 1,Other Objects Set-In-Motion,61280,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",2,1
@@ -2546,16 +1972,10 @@
 0,Non-Collision,61281,1,Rollover/Overturn,1,9999
 1,6 Clock Point,61281,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61282,1,Pedestrian,1,9999
-0,12 Clock Point,61282,1,Pedestrian,1,9999
 0,Non-Harmful Event,61283,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,61283,2,Embankment,1,9999
 2,Non-Collision,61283,3,Rollover/Overturn,1,9999
 0,12 Clock Point,61284,1,Pedestrian,1,9999
-0,12 Clock Point,61284,1,Pedestrian,1,9999
-0,Non-Harmful Event,61291,1,Ran Off Roadway - Right,1,9999
-1,Not Reported,61291,2,Other Fixed Object,1,9999
-2,7 Clock Point,61291,3,Tree (Standing Only),1,9999
-3,9 Clock Point,61291,4,Boulder,1,9999
 0,Non-Harmful Event,61291,1,Ran Off Roadway - Right,1,9999
 1,Not Reported,61291,2,Other Fixed Object,1,9999
 2,7 Clock Point,61291,3,Tree (Standing Only),1,9999
@@ -2563,7 +1983,6 @@
 0,Non-Harmful Event,61292,1,Cross Centerline,1,5555
 1,12 Clock Point,61292,2,Motor Vehicle In-Transport ,1,2
 2,Non-Collision,61292,3,Rollover/Overturn,1,9999
-0,12 Clock Point,61293,1,Pedestrian,1,9999
 0,12 Clock Point,61293,1,Pedestrian,1,9999
 0,12 Clock Point,61294,1,Pedestrian,1,9999
 0,Non-Harmful Event,61295,1,Ran Off Roadway - Right,1,9999
@@ -2595,14 +2014,6 @@
 3,Non-Harmful Event,61307,4,Vehicle Went Airborne,1,5555
 4,Left-Back Side,61307,5,Utility Pole/Light Support,1,9999
 5,Non-Collision,61307,6,Rollover/Overturn,1,9999
-0,Right-Back Side,61307,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,61307,2,Ran Off Roadway - Right,1,5555
-2,12 Clock Point,61307,3,Embankment,1,9999
-3,Non-Harmful Event,61307,4,Vehicle Went Airborne,1,5555
-4,Left-Back Side,61307,5,Utility Pole/Light Support,1,9999
-5,Non-Collision,61307,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61308,1,Ran Off Roadway - Left,1,5555
-1,Non-Collision,61308,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61308,1,Ran Off Roadway - Left,1,5555
 1,Non-Collision,61308,2,Rollover/Overturn,1,9999
 0,12 Clock Point,61315,1,Motor Vehicle In-Transport ,1,2
@@ -2613,15 +2024,7 @@
 3,6 Clock Point,61319,4,Guardrail Face,2,9999
 4,Non-Harmful Event,61319,5,Cross Centerline,1,5555
 5,Non-Collision,61319,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61319,1,Cross Centerline,1,5555
-1,12 Clock Point,61319,2,Motor Vehicle In-Transport ,1,2
-2,Non-Harmful Event,61319,3,Ran Off Roadway - Right,2,5555
-3,6 Clock Point,61319,4,Guardrail Face,2,9999
-4,Non-Harmful Event,61319,5,Cross Centerline,1,5555
-5,Non-Collision,61319,6,Rollover/Overturn,1,9999
 0,1 Clock Point,61321,1,Pedalcyclist,1,9999
-0,Non-Harmful Event,61323,1,Ran Off Roadway - Left,1,5555
-1,Non-Collision,61323,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61323,1,Ran Off Roadway - Left,1,5555
 1,Non-Collision,61323,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61325,1,Ran Off Roadway - Right,1,9999
@@ -2629,14 +2032,8 @@
 0,1 Clock Point,61326,1,Pedalcyclist,1,9999
 0,Non-Harmful Event,61327,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61327,2,Parked Motor Vehicle ,1,2
-0,Non-Harmful Event,61327,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61327,2,Parked Motor Vehicle ,1,2
-0,12 Clock Point,61330,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61330,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61330,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61331,1,Motor Vehicle In-Transport ,2,1
-0,Non-Collision,61332,1,Fell/Jumped from Vehicle,1,9999
-1,Non-Collision,61332,2,Rollover/Overturn,1,9999
 0,Non-Collision,61332,1,Fell/Jumped from Vehicle,1,9999
 1,Non-Collision,61332,2,Rollover/Overturn,1,9999
 0,12 Clock Point,61333,1,Pedestrian,1,9999
@@ -2657,13 +2054,6 @@
 2,12 Clock Point,61340,3,Motor Vehicle In-Transport ,3,1
 0,Non-Harmful Event,61343,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61343,2,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61343,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61343,2,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61344,1,Cross Centerline,1,5555
-1,Non-Harmful Event,61344,2,Cross Centerline,2,5555
-2,12 Clock Point,61344,3,Motor Vehicle In-Transport ,1,2
-3,Cargo/Vehicle Parts Set-In-Motion,61344,4,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-4,Not Reported,61344,5,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,61344,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61344,2,Cross Centerline,2,5555
 2,12 Clock Point,61344,3,Motor Vehicle In-Transport ,1,2
@@ -2672,8 +2062,6 @@
 0,Non-Harmful Event,61345,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,61345,2,Tree (Standing Only),1,9999
 2,Not Reported,61345,3,Tree (Standing Only),1,9999
-0,12 Clock Point,61347,1,Motor Vehicle In-Transport ,1,2
-1,Not Reported,61347,2,Pedestrian,1,9999
 0,12 Clock Point,61347,1,Motor Vehicle In-Transport ,1,2
 1,Not Reported,61347,2,Pedestrian,1,9999
 0,Non-Harmful Event,61349,1,Cross Centerline,1,9999
@@ -2687,31 +2075,12 @@
 2,Non-Harmful Event,61354,3,Cross Median,1,5555
 3,Right,61354,4,Motor Vehicle In-Transport ,1,2
 4,Non-Collision,61354,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61354,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,61354,2,Curb,1,9999
-2,Non-Harmful Event,61354,3,Cross Median,1,5555
-3,Right,61354,4,Motor Vehicle In-Transport ,1,2
-4,Non-Collision,61354,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61354,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,61354,2,Curb,1,9999
-2,Non-Harmful Event,61354,3,Cross Median,1,5555
-3,Right,61354,4,Motor Vehicle In-Transport ,1,2
-4,Non-Collision,61354,5,Rollover/Overturn,1,9999
-0,12 Clock Point,61356,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61356,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61357,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61358,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61358,2,Tree (Standing Only),1,9999
 2,Non-Collision,61358,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61358,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61358,2,Tree (Standing Only),1,9999
-2,Non-Collision,61358,3,Rollover/Overturn,1,9999
 0,Non-Collision,61363,1,Rollover/Overturn,1,9999
-0,9 Clock Point,61364,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,61364,2,Rollover/Overturn,1,9999
-2,Non-Harmful Event,61364,3,Ran Off Roadway - Right,1,5555
-3,Not Reported,61364,4,Curb,1,9999
-4,Not Reported,61364,5,Utility Pole/Light Support,1,9999
 0,9 Clock Point,61364,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,61364,2,Rollover/Overturn,1,9999
 2,Non-Harmful Event,61364,3,Ran Off Roadway - Right,1,5555
@@ -2730,22 +2099,12 @@
 2,Non-Harmful Event,61372,3,Vehicle Went Airborne,1,5555
 3,Not Reported,61372,4,Pedestrian,1,9999
 4,Not Reported,61372,5,Pedestrian,1,9999
-0,Non-Harmful Event,61372,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,61372,2,Curb,1,9999
-2,Non-Harmful Event,61372,3,Vehicle Went Airborne,1,5555
-3,Not Reported,61372,4,Pedestrian,1,9999
-4,Not Reported,61372,5,Pedestrian,1,9999
 0,Non-Harmful Event,61373,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,61373,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,61373,3,Cross Centerline,1,5555
 3,Non-Harmful Event,61373,4,Ran Off Roadway - Right,1,5555
 4,Not Reported,61373,5,Traffic Sign Support ,1,9999
 5,Non-Collision,61373,6,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61374,1,Ran Off Roadway - Left,1,9999
-1,Undercarriage,61374,2,Curb,1,9999
-2,Non-Harmful Event,61374,3,Cross Centerline,1,9999
-3,12 Clock Point,61374,4,Motor Vehicle In-Transport ,1,2
-4,12 Clock Point,61374,5,Motor Vehicle In-Transport ,3,4
 0,Non-Harmful Event,61374,1,Ran Off Roadway - Left,1,9999
 1,Undercarriage,61374,2,Curb,1,9999
 2,Non-Harmful Event,61374,3,Cross Centerline,1,9999
@@ -2809,14 +2168,6 @@
 5,Non-Collision,61395,6,Rollover/Overturn,1,9999
 6,Set-In-Motion (Not a Clock Point),61395,7,Parked Motor Vehicle ,1,2
 7,Set-In-Motion (Not a Clock Point),61395,8,Parked Motor Vehicle ,1,3
-0,Non-Harmful Event,61395,1,Cross Centerline,1,9999
-1,Non-Harmful Event,61395,2,Ran Off Roadway - Left,1,9999
-2,Undercarriage,61395,3,Curb,1,9999
-3,Right,61395,4,Utility Pole/Light Support,1,9999
-4,Not Reported,61395,5,Tree (Standing Only),1,9999
-5,Non-Collision,61395,6,Rollover/Overturn,1,9999
-6,Set-In-Motion (Not a Clock Point),61395,7,Parked Motor Vehicle ,1,2
-7,Set-In-Motion (Not a Clock Point),61395,8,Parked Motor Vehicle ,1,3
 0,12 Clock Point,61396,1,Pedestrian,1,9999
 0,12 Clock Point,61399,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,61399,2,Rollover/Overturn,2,9999
@@ -2840,40 +2191,16 @@
 0,Non-Harmful Event,61412,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,61412,2,Curb,1,9999
 2,Not Reported,61412,3,Utility Pole/Light Support,1,9999
-0,Non-Harmful Event,61412,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,61412,2,Curb,1,9999
-2,Not Reported,61412,3,Utility Pole/Light Support,1,9999
-0,Non-Harmful Event,61412,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,61412,2,Curb,1,9999
-2,Not Reported,61412,3,Utility Pole/Light Support,1,9999
 0,4 Clock Point,61416,1,Motor Vehicle In-Transport ,1,2
 1,4 Clock Point,61416,2,Pedestrian,1,9999
 0,12 Clock Point,61418,1,Motor Vehicle In-Transport ,2,1
 1,12 Clock Point,61418,2,Motor Vehicle In-Transport ,3,1
 2,1 Clock Point,61418,3,Motor Vehicle In-Transport ,1,4
 3,6 Clock Point,61418,4,Motor Vehicle In-Transport ,4,5
-0,12 Clock Point,61418,1,Motor Vehicle In-Transport ,2,1
-1,12 Clock Point,61418,2,Motor Vehicle In-Transport ,3,1
-2,1 Clock Point,61418,3,Motor Vehicle In-Transport ,1,4
-3,6 Clock Point,61418,4,Motor Vehicle In-Transport ,4,5
-0,Non-Harmful Event,61422,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61422,2,Pedestrian,1,9999
-2,Right-Front Half,61422,3,Guardrail Face,1,9999
 0,Non-Harmful Event,61422,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61422,2,Pedestrian,1,9999
 2,Right-Front Half,61422,3,Guardrail Face,1,9999
 0,12 Clock Point,61428,1,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61433,1,Ran Off Roadway - Right,1,5555
-1,1 Clock Point,61433,2,Guardrail Face,1,9999
-2,Non-Harmful Event,61433,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,61433,4,Cross Centerline,1,5555
-4,Non-Harmful Event,61433,5,Ran Off Roadway - Left,1,5555
-5,Not Reported,61433,6,Guardrail Face,1,9999
-6,Non-Harmful Event,61433,7,Re-entering Roadway,1,5555
-7,12 Clock Point,61433,8,Motor Vehicle In-Transport ,1,2
-8,Non-Harmful Event,61433,9,Ran Off Roadway - Right,2,5555
-9,Right,61433,10,Guardrail Face,2,9999
-10,Non-Collision,61433,11,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61433,1,Ran Off Roadway - Right,1,5555
 1,1 Clock Point,61433,2,Guardrail Face,1,9999
 2,Non-Harmful Event,61433,3,Re-entering Roadway,1,5555
@@ -2892,20 +2219,10 @@
 3,12 Clock Point,61438,4,Fence,1,9999
 0,12 Clock Point,61440,1,Pedestrian,1,9999
 1,Other Objects Set-In-Motion,61440,2,Concrete Traffic Barrier,1,9999
-0,12 Clock Point,61440,1,Pedestrian,1,9999
-1,Other Objects Set-In-Motion,61440,2,Concrete Traffic Barrier,1,9999
 0,Non-Harmful Event,61441,1,Ran Off Roadway - Right,1,5555
 1,Right-Front Side,61441,2,Tree (Standing Only),1,9999
 2,Non-Collision,61441,3,Rollover/Overturn,1,9999
 3,Not Reported,61441,4,Fence,1,9999
-0,Non-Harmful Event,61442,1,Cross Centerline,1,9999
-1,Non-Harmful Event,61442,2,Ran Off Roadway - Left,1,9999
-2,Unknown,61442,3,Guardrail Face,1,9999
-3,Unknown,61442,4,Traffic Sign Support ,1,9999
-0,Non-Harmful Event,61442,1,Cross Centerline,1,9999
-1,Non-Harmful Event,61442,2,Ran Off Roadway - Left,1,9999
-2,Unknown,61442,3,Guardrail Face,1,9999
-3,Unknown,61442,4,Traffic Sign Support ,1,9999
 0,Non-Harmful Event,61442,1,Cross Centerline,1,9999
 1,Non-Harmful Event,61442,2,Ran Off Roadway - Left,1,9999
 2,Unknown,61442,3,Guardrail Face,1,9999
@@ -2933,17 +2250,7 @@
 2,Not Reported,61451,3,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,61452,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61452,2,Pedestrian,1,9999
-0,Non-Harmful Event,61452,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61452,2,Pedestrian,1,9999
 0,12 Clock Point,61453,1,Non-Motorist on Personal Conveyance,1,9999
-0,Non-Harmful Event,61455,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61455,2,Curb,1,9999
-2,Non-Harmful Event,61455,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,61455,4,Ran Off Roadway - Left,1,5555
-4,Undercarriage,61455,5,Curb,1,9999
-5,5 Clock Point,61455,6,Tree (Standing Only),1,9999
-6,Non-Harmful Event,61455,7,Cross Median,1,5555
-7,Non-Collision,61455,8,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61455,1,Ran Off Roadway - Left,1,5555
 1,Undercarriage,61455,2,Curb,1,9999
 2,Non-Harmful Event,61455,3,Re-entering Roadway,1,5555
@@ -2963,11 +2270,6 @@
 1,Undercarriage,61459,2,Curb,1,9999
 2,Unknown,61459,3,Embankment,1,9999
 3,Unknown,61459,4,Guardrail Face,1,9999
-0,Non-Harmful Event,61459,1,Ran Off Roadway - Left,1,9999
-1,Undercarriage,61459,2,Curb,1,9999
-2,Unknown,61459,3,Embankment,1,9999
-3,Unknown,61459,4,Guardrail Face,1,9999
-0,12 Clock Point,61462,1,Pedestrian,1,9999
 0,12 Clock Point,61462,1,Pedestrian,1,9999
 0,12 Clock Point,61464,1,Pedalcyclist,1,9999
 0,Non-Collision,61465,1,Rollover/Overturn,1,9999
@@ -3002,7 +2304,6 @@
 0,12 Clock Point,61488,1,Pedestrian,1,9999
 0,12 Clock Point,61494,1,Pedestrian,1,9999
 0,12 Clock Point,61495,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61495,1,Motor Vehicle In-Transport ,1,2
 0,Unknown,61496,1,Pedestrian,1,9999
 1,12 Clock Point,61496,2,Pedestrian,2,9999
 2,12 Clock Point,61496,3,Pedestrian,3,9999
@@ -3032,13 +2333,6 @@
 0,Non-Harmful Event,61520,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,61520,2,Curb,1,9999
 2,Non-Collision,61520,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61520,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61520,2,Curb,1,9999
-2,Non-Collision,61520,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61522,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61522,2,Curb,1,9999
-2,10 Clock Point,61522,3,Parked Motor Vehicle ,1,2
-3,12 Clock Point,61522,4,Wall,1,9999
 0,Non-Harmful Event,61522,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,61522,2,Curb,1,9999
 2,10 Clock Point,61522,3,Parked Motor Vehicle ,1,2
@@ -3051,11 +2345,6 @@
 0,Non-Harmful Event,61532,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,61532,2,Other Fixed Object,1,9999
 2,Non-Collision,61532,3,Fire/Explosion,1,9999
-0,Non-Harmful Event,61533,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61533,2,Curb,1,9999
-2,Not Reported,61533,3,Tree (Standing Only),1,9999
-3,Not Reported,61533,4,Tree (Standing Only),1,9999
-4,Not Reported,61533,5,Tree (Standing Only),1,9999
 0,Non-Harmful Event,61533,1,Ran Off Roadway - Left,1,5555
 1,Undercarriage,61533,2,Curb,1,9999
 2,Not Reported,61533,3,Tree (Standing Only),1,9999
@@ -3125,34 +2414,8 @@
 8,Not Reported,61566,9,Guardrail Face,1,9999
 9,Non-Harmful Event,61566,10,Re-entering Roadway,1,5555
 10,Non-Collision,61566,11,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61566,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61566,2,Curb,1,9999
-2,12 Clock Point,61566,3,Traffic Sign Support ,1,9999
-3,12 Clock Point,61566,4,Shrubbery,1,9999
-4,Non-Collision,61566,5,Rollover/Overturn,1,9999
-5,Non-Harmful Event,61566,6,Ran Off Roadway - Left,1,5555
-6,Not Reported,61566,7,Guardrail Face,1,9999
-7,Not Reported,61566,8,Bridge Pier or Support,1,9999
-8,Not Reported,61566,9,Guardrail Face,1,9999
-9,Non-Harmful Event,61566,10,Re-entering Roadway,1,5555
-10,Non-Collision,61566,11,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61566,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61566,2,Curb,1,9999
-2,12 Clock Point,61566,3,Traffic Sign Support ,1,9999
-3,12 Clock Point,61566,4,Shrubbery,1,9999
-4,Non-Collision,61566,5,Rollover/Overturn,1,9999
-5,Non-Harmful Event,61566,6,Ran Off Roadway - Left,1,5555
-6,Not Reported,61566,7,Guardrail Face,1,9999
-7,Not Reported,61566,8,Bridge Pier or Support,1,9999
-8,Not Reported,61566,9,Guardrail Face,1,9999
-9,Non-Harmful Event,61566,10,Re-entering Roadway,1,5555
-10,Non-Collision,61566,11,Rollover/Overturn,1,9999
 0,12 Clock Point,61570,1,Pedestrian,1,9999
 1,12 Clock Point,61570,2,Pedestrian,2,9999
-0,Non-Harmful Event,61571,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61571,2,Curb,1,9999
-2,12 Clock Point,61571,3,Traffic Sign Support ,1,9999
-3,Set-In-Motion (Not a Clock Point),61571,4,Pedestrian,1,9999
 0,Non-Harmful Event,61571,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,61571,2,Curb,1,9999
 2,12 Clock Point,61571,3,Traffic Sign Support ,1,9999
@@ -3175,11 +2438,6 @@
 2,Non-Harmful Event,61578,3,Cross Centerline,1,5555
 3,Non-Harmful Event,61578,4,Ran Off Roadway - Left,1,5555
 4,Non-Collision,61578,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61578,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,61578,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,61578,3,Cross Centerline,1,5555
-3,Non-Harmful Event,61578,4,Ran Off Roadway - Left,1,5555
-4,Non-Collision,61578,5,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61579,1,Cross Centerline,1,5555
 1,7 Clock Point,61579,2,Motor Vehicle In-Transport ,1,2
 2,12 Clock Point,61579,3,Motor Vehicle In-Transport ,3,1
@@ -3195,14 +2453,12 @@
 0,Undercarriage,61586,1,Pedestrian,1,9999
 0,12 Clock Point,61587,1,Pedestrian,1,9999
 0,Non-Collision,61588,1,Rollover/Overturn,1,9999
-0,Non-Collision,61588,1,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61591,1,Cross Centerline,1,5555
 1,Left-Back Side,61591,2,Motor Vehicle In-Transport ,1,2
 2,12 Clock Point,61591,3,Motor Vehicle In-Transport ,1,3
 3,Non-Collision,61591,4,Fire/Explosion,1,9999
 4,Non-Collision,61591,5,Fire/Explosion,2,9999
 5,Non-Collision,61591,6,Fire/Explosion,3,9999
-0,12 Clock Point,61594,1,Pedestrian,1,9999
 0,12 Clock Point,61594,1,Pedestrian,1,9999
 0,12 Clock Point,61595,1,Motor Vehicle In-Transport ,1,2
 1,12 Clock Point,61595,2,Motor Vehicle In-Transport ,2,3
@@ -3213,13 +2469,6 @@
 2,Non-Harmful Event,61596,3,Re-entering Roadway,1,5555
 3,Non-Harmful Event,61596,4,Ran Off Roadway - Right,1,5555
 4,Left-Front Side,61596,5,Concrete Traffic Barrier,1,9999
-0,Non-Harmful Event,61596,1,Ran Off Roadway - Left,1,5555
-1,Left,61596,2,Guardrail Face,1,9999
-2,Non-Harmful Event,61596,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,61596,4,Ran Off Roadway - Right,1,5555
-4,Left-Front Side,61596,5,Concrete Traffic Barrier,1,9999
-0,12 Clock Point,61599,1,Pedestrian,1,9999
-0,12 Clock Point,61599,1,Pedestrian,1,9999
 0,12 Clock Point,61599,1,Pedestrian,1,9999
 0,12 Clock Point,61601,1,Pedalcyclist,1,9999
 0,Non-Harmful Event,61605,1,Ran Off Roadway - Left,1,5555
@@ -3227,15 +2476,7 @@
 0,12 Clock Point,61607,1,Motor Vehicle In-Transport ,1,2
 0,9 Clock Point,61609,1,Wall,1,9999
 1,9 Clock Point,61609,2,Pedestrian,1,9999
-0,9 Clock Point,61609,1,Wall,1,9999
-1,9 Clock Point,61609,2,Pedestrian,1,9999
 0,12 Clock Point,61610,1,Pedalcyclist,1,9999
-0,Non-Harmful Event,61611,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61611,2,Other Object (not fixed),1,9999
-2,12 Clock Point,61611,3,Pedestrian,1,9999
-0,Non-Harmful Event,61611,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61611,2,Other Object (not fixed),1,9999
-2,12 Clock Point,61611,3,Pedestrian,1,9999
 0,Non-Harmful Event,61611,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61611,2,Other Object (not fixed),1,9999
 2,12 Clock Point,61611,3,Pedestrian,1,9999
@@ -3244,10 +2485,6 @@
 1,Undercarriage,61615,2,Curb,1,9999
 2,Undercarriage,61615,3,Curb,1,9999
 3,Right-Front Side,61615,4,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61616,1,Cross Centerline,1,9999
-1,12 Clock Point,61616,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61616,1,Cross Centerline,1,9999
-1,12 Clock Point,61616,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61616,1,Cross Centerline,1,9999
 1,12 Clock Point,61616,2,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61617,1,Ran Off Roadway - Left,1,5555
@@ -3264,9 +2501,6 @@
 0,Non-Harmful Event,61621,1,Ran Off Roadway - Left,1,5555
 1,Undercarriage,61621,2,Curb,1,9999
 2,Left,61621,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61621,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61621,2,Curb,1,9999
-2,Left,61621,3,Tree (Standing Only),1,9999
 0,12 Clock Point,61625,1,Pedestrian,1,9999
 1,12 Clock Point,61625,2,Pedestrian,2,9999
 2,12 Clock Point,61625,3,Pedestrian,3,9999
@@ -3275,12 +2509,10 @@
 2,Not Reported,61626,3,Utility Pole/Light Support,1,9999
 3,Non-Collision,61626,4,Rollover/Overturn,1,9999
 0,12 Clock Point,61627,1,Pedestrian,1,9999
-0,12 Clock Point,61627,1,Pedestrian,1,9999
 0,Non-Collision,61628,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,61628,2,Ran Off Roadway - Right,1,5555
 2,Non-Harmful Event,61628,3,Vehicle Went Airborne,1,5555
 3,Not Reported,61628,4,Other Object (not fixed),1,9999
-0,12 Clock Point,61630,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61630,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,61633,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61633,2,Ran Off Roadway - Left,1,5555
@@ -3294,7 +2526,6 @@
 0,Unknown,61637,1,Non-Motorist on Personal Conveyance,1,9999
 1,Unknown,61637,2,Non-Motorist on Personal Conveyance,2,9999
 0,12 Clock Point,61638,1,Motor Vehicle In-Transport ,2,1
-0,12 Clock Point,61639,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61639,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61641,1,Pedestrian,1,9999
 0,Right-Front Half,61643,1,Pedestrian,1,9999
@@ -3334,13 +2565,6 @@
 4,Not Reported,61652,5,Motor Vehicle In-Transport ,1,2
 5,Non-Harmful Event,61652,6,Ran Off Roadway - Right,2,9999
 6,12 Clock Point,61652,7,Tree (Standing Only),2,9999
-0,Non-Collision,61652,1,Rollover/Overturn,1,9999
-1,Non-Harmful Event,61652,2,Ran Off Roadway - Left,1,9999
-2,12 Clock Point,61652,3,Guardrail Face,1,9999
-3,Non-Harmful Event,61652,4,Re-entering Roadway,1,9999
-4,Not Reported,61652,5,Motor Vehicle In-Transport ,1,2
-5,Non-Harmful Event,61652,6,Ran Off Roadway - Right,2,9999
-6,12 Clock Point,61652,7,Tree (Standing Only),2,9999
 0,12 Clock Point,61653,1,Pedestrian,1,9999
 0,Non-Harmful Event,61656,1,Cross Centerline,1,5555
 1,Non-Collision,61656,2,Rollover/Overturn,1,9999
@@ -3354,15 +2578,9 @@
 1,12 Clock Point,61662,2,Pedestrian,2,9999
 2,12 Clock Point,61662,3,Pedestrian,3,9999
 0,12 Clock Point,61663,1,Pedestrian,1,9999
-0,12 Clock Point,61663,1,Pedestrian,1,9999
 0,12 Clock Point,61665,1,Pedalcyclist,1,9999
 0,12 Clock Point,61668,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61669,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61669,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61671,1,Pedestrian,1,9999
-1,Non-Harmful Event,61671,2,Ran Off Roadway - Right,1,9999
-2,Undercarriage,61671,3,Curb,1,9999
-3,12 Clock Point,61671,4,Wall,1,9999
 0,12 Clock Point,61671,1,Pedestrian,1,9999
 1,Non-Harmful Event,61671,2,Ran Off Roadway - Right,1,9999
 2,Undercarriage,61671,3,Curb,1,9999
@@ -3371,20 +2589,6 @@
 1,Non-Collision,61672,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,61673,1,Cross Centerline,1,5555
 1,Left,61673,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61673,1,Cross Centerline,1,5555
-1,Left,61673,2,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61674,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,61674,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,61674,3,Cross Centerline,1,5555
-3,12 Clock Point,61674,4,Motor Vehicle In-Transport ,2,1
-0,Non-Harmful Event,61674,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,61674,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,61674,3,Cross Centerline,1,5555
-3,12 Clock Point,61674,4,Motor Vehicle In-Transport ,2,1
-0,Non-Harmful Event,61674,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,61674,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,61674,3,Cross Centerline,1,5555
-3,12 Clock Point,61674,4,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,61674,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,61674,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,61674,3,Cross Centerline,1,5555
@@ -3394,9 +2598,6 @@
 2,12 Clock Point,61675,3,Tree (Standing Only),1,9999
 0,Non-Harmful Event,61676,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,61676,2,Boulder,1,9999
-0,Non-Harmful Event,61676,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,61676,2,Boulder,1,9999
-0,12 Clock Point,61677,1,Pedestrian,1,9999
 0,12 Clock Point,61677,1,Pedestrian,1,9999
 0,Non-Collision,61678,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,61678,2,Ran Off Roadway - Right,1,5555
@@ -3415,24 +2616,6 @@
 3,Non-Collision,61684,4,Rollover/Overturn,1,9999
 4,Not Reported,61684,5,Tree (Standing Only),1,9999
 5,Undercarriage,61684,6,Bridge Pier or Support,1,9999
-0,Non-Harmful Event,61684,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61684,2,Curb,1,9999
-2,Not Reported,61684,3,Boulder,1,9999
-3,Non-Collision,61684,4,Rollover/Overturn,1,9999
-4,Not Reported,61684,5,Tree (Standing Only),1,9999
-5,Undercarriage,61684,6,Bridge Pier or Support,1,9999
-0,Non-Harmful Event,61684,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61684,2,Curb,1,9999
-2,Not Reported,61684,3,Boulder,1,9999
-3,Non-Collision,61684,4,Rollover/Overturn,1,9999
-4,Not Reported,61684,5,Tree (Standing Only),1,9999
-5,Undercarriage,61684,6,Bridge Pier or Support,1,9999
-0,Non-Harmful Event,61684,1,Ran Off Roadway - Right,1,5555
-1,Undercarriage,61684,2,Curb,1,9999
-2,Not Reported,61684,3,Boulder,1,9999
-3,Non-Collision,61684,4,Rollover/Overturn,1,9999
-4,Not Reported,61684,5,Tree (Standing Only),1,9999
-5,Undercarriage,61684,6,Bridge Pier or Support,1,9999
 0,12 Clock Point,61685,1,Pedestrian,1,9999
 0,12 Clock Point,61688,1,Pedestrian,1,9999
 1,12 Clock Point,61688,2,Pedestrian,1,9999
@@ -3445,21 +2628,7 @@
 4,12 Clock Point,61694,5,Motor Vehicle In-Transport ,3,2
 5,12 Clock Point,61694,6,Motor Vehicle In-Transport ,4,1
 6,Non-Collision,61694,7,Fire/Explosion,2,9999
-0,12 Clock Point,61694,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,61694,2,Ran Off Roadway - Left,1,5555
-2,12 Clock Point,61694,3,Concrete Traffic Barrier,1,9999
-3,Non-Harmful Event,61694,4,Re-entering Roadway,1,5555
-4,12 Clock Point,61694,5,Motor Vehicle In-Transport ,3,2
-5,12 Clock Point,61694,6,Motor Vehicle In-Transport ,4,1
-6,Non-Collision,61694,7,Fire/Explosion,2,9999
 0,12 Clock Point,61695,1,Pedestrian,1,9999
-0,Non-Harmful Event,61698,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61698,2,Other Fixed Object,1,9999
-2,12 Clock Point,61698,3,Other Fixed Object,1,9999
-3,12 Clock Point,61698,4,"Other Post, Other Pole or Other Supports",1,9999
-4,Non-Collision,61698,5,Rollover/Overturn,1,9999
-5,Not Reported,61698,6,Fence,1,9999
-6,Non-Collision,61698,7,Immersion or Partial Immersion,1,9999
 0,Non-Harmful Event,61698,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61698,2,Other Fixed Object,1,9999
 2,12 Clock Point,61698,3,Other Fixed Object,1,9999
@@ -3480,7 +2649,6 @@
 1,Right,61701,2,Parked Motor Vehicle ,1,2
 2,Set-In-Motion (Not a Clock Value),61701,3,Parked Motor Vehicle ,1,3
 0,12 Clock Point,61702,1,Pedestrian,1,9999
-0,12 Clock Point,61702,1,Pedestrian,1,9999
 0,5 Clock Point,61704,1,Pedestrian,1,9999
 0,Non-Harmful Event,61708,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,61708,2,Impact Attenuator/Crash Cushion,1,9999
@@ -3490,25 +2658,6 @@
 1,12 Clock Point,61709,2,Impact Attenuator/Crash Cushion,1,9999
 2,12 Clock Point,61709,3,Concrete Traffic Barrier,1,9999
 0,12 Clock Point,61710,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61710,1,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,61712,1,Cross Centerline,1,5555
-1,12 Clock Point,61712,2,Motor Vehicle In-Transport ,1,2
-2,Non-Collision,61712,3,Fell/Jumped from Vehicle,2,9999
-3,Non-Harmful Event,61712,4,Ran Off Roadway - Left,1,5555
-4,Not Reported,61712,5,Tree (Standing Only),1,9999
-5,Not Reported,61712,6,Fence,1,9999
-6,Non-Harmful Event,61712,7,Ran Off Roadway - Right,2,5555
-7,Non-Collision,61712,8,Rollover/Overturn,2,9999
-8,Not Reported,61712,9,Fence,2,9999
-0,Non-Harmful Event,61712,1,Cross Centerline,1,5555
-1,12 Clock Point,61712,2,Motor Vehicle In-Transport ,1,2
-2,Non-Collision,61712,3,Fell/Jumped from Vehicle,2,9999
-3,Non-Harmful Event,61712,4,Ran Off Roadway - Left,1,5555
-4,Not Reported,61712,5,Tree (Standing Only),1,9999
-5,Not Reported,61712,6,Fence,1,9999
-6,Non-Harmful Event,61712,7,Ran Off Roadway - Right,2,5555
-7,Non-Collision,61712,8,Rollover/Overturn,2,9999
-8,Not Reported,61712,9,Fence,2,9999
 0,Non-Harmful Event,61712,1,Cross Centerline,1,5555
 1,12 Clock Point,61712,2,Motor Vehicle In-Transport ,1,2
 2,Non-Collision,61712,3,Fell/Jumped from Vehicle,2,9999
@@ -3524,9 +2673,6 @@
 0,Non-Harmful Event,61714,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61714,2,Other Fixed Object,1,9999
 2,12 Clock Point,61714,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61714,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,61714,2,Other Fixed Object,1,9999
-2,12 Clock Point,61714,3,Tree (Standing Only),1,9999
 0,Undercarriage,61715,1,Pedestrian,1,9999
 0,12 Clock Point,61717,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,61717,2,Cross Centerline,1,5555
@@ -3538,12 +2684,6 @@
 2,Non-Collision,61726,3,Rollover/Overturn,1,9999
 0,12 Clock Point,61728,1,Pedestrian,1,9999
 0,12 Clock Point,61733,1,Motor Vehicle In-Transport ,2,1
-0,12 Clock Point,61735,1,Motor Vehicle In-Transport ,1,2
-1,12 Clock Point,61735,2,Motor Vehicle In-Transport ,1,3
-2,12 Clock Point,61735,3,Motor Vehicle In-Transport ,1,4
-0,12 Clock Point,61735,1,Motor Vehicle In-Transport ,1,2
-1,12 Clock Point,61735,2,Motor Vehicle In-Transport ,1,3
-2,12 Clock Point,61735,3,Motor Vehicle In-Transport ,1,4
 0,12 Clock Point,61735,1,Motor Vehicle In-Transport ,1,2
 1,12 Clock Point,61735,2,Motor Vehicle In-Transport ,1,3
 2,12 Clock Point,61735,3,Motor Vehicle In-Transport ,1,4
@@ -3579,7 +2719,6 @@
 0,Non-Harmful Event,61761,1,End Departure,1,9999
 1,12 Clock Point,61761,2,Wall,1,9999
 0,Left,61767,1,Motor Vehicle In-Transport ,1,2
-0,Left,61767,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61769,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,61769,2,Parked Motor Vehicle ,1,2
 2,Other Objects Set-In-Motion,61769,3,Concrete Traffic Barrier,1,9999
@@ -3594,7 +2733,6 @@
 0,Non-Harmful Event,61782,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61782,2,Ran Off Roadway - Left,1,5555
 2,3 Clock Point,61782,3,Tree (Standing Only),1,9999
-0,Non-Collision,61784,1,Rollover/Overturn,1,9999
 0,Non-Collision,61784,1,Rollover/Overturn,1,9999
 0,12 Clock Point,61785,1,Pedestrian,1,9999
 0,12 Clock Point,61786,1,Non-Motorist on Personal Conveyance,1,9999
@@ -3611,7 +2749,6 @@
 1,Non-Harmful Event,61797,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,61797,3,Embankment,1,9999
 3,Non-Collision,61797,4,Rollover/Overturn,1,9999
-0,12 Clock Point,61798,1,Pedestrian,1,9999
 0,12 Clock Point,61798,1,Pedestrian,1,9999
 0,Non-Collision,61801,1,Rollover/Overturn,1,9999
 1,Other Objects Set-In-Motion,61801,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
@@ -3641,16 +2778,6 @@
 1,Not Reported,61820,2,Parked Motor Vehicle ,1,3
 2,Other Objects Set-In-Motion,61820,3,Parked Motor Vehicle ,1,4
 3,Other Objects Set-In-Motion,61820,4,Parked Motor Vehicle ,1,5
-0,Not Reported,61820,1,Motor Vehicle In-Transport ,1,2
-1,Not Reported,61820,2,Parked Motor Vehicle ,1,3
-2,Other Objects Set-In-Motion,61820,3,Parked Motor Vehicle ,1,4
-3,Other Objects Set-In-Motion,61820,4,Parked Motor Vehicle ,1,5
-0,Non-Harmful Event,61821,1,Ran Off Roadway - Left,1,9999
-1,Non-Harmful Event,61821,2,Re-entering Roadway,1,9999
-2,Right-Back Half,61821,3,Motor Vehicle In-Transport ,1,2
-3,Non-Harmful Event,61821,4,Ran Off Roadway - Right,1,9999
-4,Non-Collision,61821,5,Rollover/Overturn,1,9999
-5,Non-Collision,61821,6,Fire/Explosion,1,9999
 0,Non-Harmful Event,61821,1,Ran Off Roadway - Left,1,9999
 1,Non-Harmful Event,61821,2,Re-entering Roadway,1,9999
 2,Right-Back Half,61821,3,Motor Vehicle In-Transport ,1,2
@@ -3676,12 +2803,6 @@
 3,Non-Harmful Event,61837,4,Ran Off Roadway - Right,1,5555
 4,Right,61837,5,Tree (Standing Only),1,9999
 5,12 Clock Point,61837,6,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61837,1,Ran Off Roadway - Right,1,5555
-1,Right,61837,2,Tree (Standing Only),1,9999
-2,Non-Harmful Event,61837,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,61837,4,Ran Off Roadway - Right,1,5555
-4,Right,61837,5,Tree (Standing Only),1,9999
-5,12 Clock Point,61837,6,Tree (Standing Only),1,9999
 0,Non-Harmful Event,61838,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,61838,2,Curb,1,9999
 0,Non-Harmful Event,61841,1,Cross Centerline,1,5555
@@ -3699,7 +2820,6 @@
 0,12 Clock Point,61854,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,61857,1,Cross Centerline,1,5555
 1,12 Clock Point,61857,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,61858,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61858,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61860,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,61860,2,Rollover/Overturn,2,9999
@@ -3729,11 +2849,6 @@
 2,Non-Harmful Event,61876,3,Cross Centerline,1,5555
 3,Non-Harmful Event,61876,4,Ran Off Roadway - Left,1,5555
 4,Non-Collision,61876,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61876,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,61876,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,61876,3,Cross Centerline,1,5555
-3,Non-Harmful Event,61876,4,Ran Off Roadway - Left,1,5555
-4,Non-Collision,61876,5,Rollover/Overturn,1,9999
 0,Not Reported,61877,1,Pedestrian,1,9999
 1,12 Clock Point,61877,2,Pedestrian,2,9999
 0,Non-Harmful Event,61878,1,Ran Off Roadway - Right,1,5555
@@ -3742,12 +2857,6 @@
 0,Non-Collision,61879,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,61879,2,Ran Off Roadway - Right,1,5555
 2,Not Reported,61879,3,Fence,1,9999
-0,Non-Harmful Event,61880,1,Cross Centerline,1,5555
-1,Non-Harmful Event,61880,2,Ran Off Roadway - Left,1,5555
-2,Left,61880,3,Traffic Sign Support ,1,9999
-3,Left,61880,4,"Post, Pole or Other Supports",1,9999
-4,Right,61880,5,Tree (Standing Only),1,9999
-5,Non-Collision,61880,6,Fire/Explosion,1,9999
 0,Non-Harmful Event,61880,1,Cross Centerline,1,5555
 1,Non-Harmful Event,61880,2,Ran Off Roadway - Left,1,5555
 2,Left,61880,3,Traffic Sign Support ,1,9999
@@ -3764,7 +2873,6 @@
 0,Non-Harmful Event,61895,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,61895,2,Utility Pole/Light Support,1,9999
 2,Non-Collision,61895,3,Fire/Explosion,1,9999
-0,Not Reported,61896,1,Pedestrian,1,9999
 0,Not Reported,61896,1,Pedestrian,1,9999
 0,12 Clock Point,61898,1,Pedestrian,1,9999
 0,Non-Harmful Event,61906,1,Ran Off Roadway - Right,1,5555
@@ -3807,7 +2915,6 @@
 1,12 Clock Point,61920,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,61922,1,Pedestrian,1,9999
 0,12 Clock Point,61924,1,Pedestrian,1,9999
-0,12 Clock Point,61924,1,Pedestrian,1,9999
 0,Non-Harmful Event,61925,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,61925,2,Curb,1,9999
 2,Not Reported,61925,3,Traffic Sign Support ,1,9999
@@ -3816,23 +2923,12 @@
 1,Non-Harmful Event,61926,2,Ran Off Roadway - Left,1,5555
 2,Non-Collision,61926,3,Rollover/Overturn,1,9999
 0,12 Clock Point,61927,1,Pedalcyclist,1,9999
-0,12 Clock Point,61927,1,Pedalcyclist,1,9999
 0,Non-Harmful Event,61928,1,Cross Centerline,1,5555
 1,12 Clock Point,61928,2,Motor Vehicle In-Transport ,1,2
 2,Non-Collision,61928,3,Fire/Explosion,2,9999
 0,Non-Harmful Event,61929,1,Ran Off Roadway - Left,1,5555
 1,Undercarriage,61929,2,Curb,1,9999
 2,Left,61929,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61929,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61929,2,Curb,1,9999
-2,Left,61929,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61929,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61929,2,Curb,1,9999
-2,Left,61929,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,61929,1,Ran Off Roadway - Left,1,5555
-1,Undercarriage,61929,2,Curb,1,9999
-2,Left,61929,3,Tree (Standing Only),1,9999
-0,12 Clock Point,61932,1,Pedestrian,1,9999
 0,12 Clock Point,61932,1,Pedestrian,1,9999
 0,12 Clock Point,61933,1,Pedestrian,1,9999
 0,Not Reported,61935,1,Pedestrian,1,9999
@@ -3842,11 +2938,6 @@
 3,Left-Front Side,61943,4,Motor Vehicle In-Transport ,1,2
 4,12 Clock Point,61943,5,Pedestrian,1,9999
 0,Left-Front Side,61944,1,Pedestrian,1,9999
-0,Non-Collision,61945,1,Rollover/Overturn,1,9999
-1,Other Objects Set-In-Motion,61945,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-2,Non-Harmful Event,61945,3,Cross Centerline,1,5555
-3,Not Reported,61945,4,Motor Vehicle In-Transport ,1,3
-4,Not Reported,61945,5,Motor Vehicle In-Transport ,1,4
 0,Non-Collision,61945,1,Rollover/Overturn,1,9999
 1,Other Objects Set-In-Motion,61945,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
 2,Non-Harmful Event,61945,3,Cross Centerline,1,5555
@@ -3875,16 +2966,6 @@
 2,Left,61960,3,Shrubbery,1,9999
 3,Left,61960,4,"Post, Pole or Other Supports",1,9999
 4,Non-Collision,61960,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61960,1,Cross Centerline,1,5555
-1,Non-Harmful Event,61960,2,Ran Off Roadway - Left,1,5555
-2,Left,61960,3,Shrubbery,1,9999
-3,Left,61960,4,"Post, Pole or Other Supports",1,9999
-4,Non-Collision,61960,5,Rollover/Overturn,1,9999
-0,Non-Harmful Event,61960,1,Cross Centerline,1,5555
-1,Non-Harmful Event,61960,2,Ran Off Roadway - Left,1,5555
-2,Left,61960,3,Shrubbery,1,9999
-3,Left,61960,4,"Post, Pole or Other Supports",1,9999
-4,Non-Collision,61960,5,Rollover/Overturn,1,9999
 0,12 Clock Point,61961,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,61962,1,Motor Vehicle In-Transport ,1,3
 1,Not Reported,61962,2,Pedestrian,3,9999
@@ -3898,15 +2979,6 @@
 1,Non-Collision,61968,2,Rollover/Overturn,1,9999
 2,Non-Harmful Event,61968,3,Ran Off Roadway - Right,2,5555
 3,12 Clock Point,61968,4,Utility Pole/Light Support,2,9999
-0,12 Clock Point,61968,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,61968,2,Rollover/Overturn,1,9999
-2,Non-Harmful Event,61968,3,Ran Off Roadway - Right,2,5555
-3,12 Clock Point,61968,4,Utility Pole/Light Support,2,9999
-0,Non-Collision,61969,1,Fell/Jumped from Vehicle,1,9999
-1,Other Objects Set-In-Motion,61969,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-2,Other Objects Set-In-Motion,61969,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
-3,Other Objects Set-In-Motion,61969,4,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,4
-4,Other Objects Set-In-Motion,61969,5,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,5
 0,Non-Collision,61969,1,Fell/Jumped from Vehicle,1,9999
 1,Other Objects Set-In-Motion,61969,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
 2,Other Objects Set-In-Motion,61969,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
@@ -3929,12 +3001,6 @@
 2,Not Reported,61986,3,"Other Post, Other Pole or Other Supports",1,9999
 3,Non-Collision,61986,4,Fire/Explosion,1,9999
 0,12 Clock Point,61988,1,Pedestrian,1,9999
-0,12 Clock Point,61988,1,Pedestrian,1,9999
-0,12 Clock Point,61989,1,Motor Vehicle In-Transport ,1,2
-1,12 Clock Point,61989,2,Motor Vehicle In-Transport ,2,3
-2,Non-Harmful Event,61989,3,Ran Off Roadway - Left,2,5555
-3,Not Reported,61989,4,Concrete Traffic Barrier,2,9999
-4,Not Reported,61989,5,Motor Vehicle In-Transport ,1,3
 0,12 Clock Point,61989,1,Motor Vehicle In-Transport ,1,2
 1,12 Clock Point,61989,2,Motor Vehicle In-Transport ,2,3
 2,Non-Harmful Event,61989,3,Ran Off Roadway - Left,2,5555
@@ -3955,10 +3021,8 @@
 2,Other Objects Set-In-Motion,61999,3,Pedestrian,1,9999
 0,11 Clock Point,62002,1,Pedestrian,1,9999
 0,1 Clock Point,62003,1,Pedestrian,1,9999
-0,1 Clock Point,62003,1,Pedestrian,1,9999
 0,12 Clock Point,62004,1,Pedestrian,1,9999
 1,12 Clock Point,62004,2,Pedestrian,1,9999
-0,12 Clock Point,62006,1,Pedestrian,1,9999
 0,12 Clock Point,62006,1,Pedestrian,1,9999
 0,12 Clock Point,62007,1,Pedestrian,1,9999
 0,12 Clock Point,62016,1,Pedestrian,1,9999
@@ -3969,31 +3033,18 @@
 0,Non-Harmful Event,62033,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62033,2,Pedestrian,1,9999
 2,Not Reported,62033,3,Pedestrian,1,9999
-0,Non-Harmful Event,62033,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62033,2,Pedestrian,1,9999
-2,Not Reported,62033,3,Pedestrian,1,9999
 0,12 Clock Point,62035,1,Pedestrian,1,9999
 0,1 Clock Point,62037,1,Pedalcyclist,1,9999
 0,12 Clock Point,62038,1,Pedestrian,1,9999
 0,12 Clock Point,62040,1,Pedestrian,1,9999
-0,12 Clock Point,62040,1,Pedestrian,1,9999
-0,12 Clock Point,62040,1,Pedestrian,1,9999
 0,12 Clock Point,62043,1,Motor Vehicle In-Transport ,1,2
 1,Not Reported,62043,2,Motor Vehicle In-Transport ,2,3
 2,Not Reported,62043,3,Motor Vehicle In-Transport ,3,1
-0,12 Clock Point,62043,1,Motor Vehicle In-Transport ,1,2
-1,Not Reported,62043,2,Motor Vehicle In-Transport ,2,3
-2,Not Reported,62043,3,Motor Vehicle In-Transport ,3,1
-0,12 Clock Point,62047,1,Pedestrian,1,9999
-0,12 Clock Point,62047,1,Pedestrian,1,9999
 0,12 Clock Point,62047,1,Pedestrian,1,9999
 0,12 Clock Point,62048,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62049,1,Pedestrian,1,9999
-0,12 Clock Point,62049,1,Pedestrian,1,9999
 0,12 Clock Point,62054,1,Pedestrian,1,9999
 0,Right,62055,1,Motor Vehicle In-Transport ,1,2
-0,Right,62055,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62059,1,Pedestrian,1,9999
 0,12 Clock Point,62059,1,Pedestrian,1,9999
 0,12 Clock Point,62060,1,Pedestrian,1,9999
 0,12 Clock Point,62062,1,Pedestrian,1,9999
@@ -4011,12 +3062,6 @@
 0,Non-Harmful Event,62070,1,Ran Off Roadway - Left,1,5555
 1,Non-Harmful Event,62070,2,Re-entering Roadway,1,5555
 2,12 Clock Point,62070,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,62070,1,Ran Off Roadway - Left,1,5555
-1,Non-Harmful Event,62070,2,Re-entering Roadway,1,5555
-2,12 Clock Point,62070,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,62070,1,Ran Off Roadway - Left,1,5555
-1,Non-Harmful Event,62070,2,Re-entering Roadway,1,5555
-2,12 Clock Point,62070,3,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62071,1,Ran Off Roadway - Right,1,5555
 1,Left,62071,2,Guardrail Face,1,9999
 2,Non-Collision,62071,3,Rollover/Overturn,1,9999
@@ -4029,7 +3074,6 @@
 5,Not Reported,62078,6,Tree (Standing Only),1,9999
 6,Not Reported,62078,7,Shrubbery,1,9999
 0,1 Clock Point,62079,1,Pedalcyclist,1,9999
-0,1 Clock Point,62079,1,Pedalcyclist,1,9999
 0,12 Clock Point,62080,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,62080,2,Ran Off Roadway - Right,1,5555
 2,Not Reported,62080,3,Guardrail Face,1,9999
@@ -4037,14 +3081,6 @@
 0,Non-Harmful Event,62088,1,Cross Centerline,1,5555
 1,Non-Harmful Event,62088,2,Ran Off Roadway - Left,1,5555
 2,3 Clock Point,62088,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62088,1,Cross Centerline,1,5555
-1,Non-Harmful Event,62088,2,Ran Off Roadway - Left,1,5555
-2,3 Clock Point,62088,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62089,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,62089,2,Other Fixed Object,1,9999
-2,Not Reported,62089,3,Other Object (not fixed),1,9999
-3,Set-In-Motion (Not a Clock Value),62089,4,Other Object (not fixed),1,9999
-4,Non-Collision,62089,5,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62089,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,62089,2,Other Fixed Object,1,9999
 2,Not Reported,62089,3,Other Object (not fixed),1,9999
@@ -4059,9 +3095,6 @@
 0,Non-Harmful Event,62097,1,Ran Off Roadway - Right,1,9999
 1,Undercarriage,62097,2,Curb,1,9999
 2,Not Reported,62097,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62097,1,Ran Off Roadway - Right,1,9999
-1,Undercarriage,62097,2,Curb,1,9999
-2,Not Reported,62097,3,Tree (Standing Only),1,9999
 0,12 Clock Point,62100,1,Motor Vehicle In-Transport ,3,1
 1,Non-Collision,62100,2,Rollover/Overturn,1,9999
 2,6 Clock Point,62100,3,Motor Vehicle In-Transport ,1,2
@@ -4072,12 +3105,6 @@
 0,Non-Harmful Event,62103,1,Ran Off Roadway - Right,1,5555
 1,Non-Collision,62103,2,Rollover/Overturn,1,9999
 0,12 Clock Point,62106,1,Pedestrian,1,9999
-0,12 Clock Point,62106,1,Pedestrian,1,9999
-0,12 Clock Point,62106,1,Pedestrian,1,9999
-0,Non-Harmful Event,62109,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,62109,2,Tree (Standing Only),1,9999
-2,Non-Collision,62109,3,Rollover/Overturn,1,9999
-3,Non-Collision,62109,4,Fire/Explosion,1,9999
 0,Non-Harmful Event,62109,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62109,2,Tree (Standing Only),1,9999
 2,Non-Collision,62109,3,Rollover/Overturn,1,9999
@@ -4114,10 +3141,6 @@
 4,Top,62120,5,Motor Vehicle In-Transport ,1,3
 0,12 Clock Point,62121,1,Motor Vehicle In-Transport ,3,1
 1,12 Clock Point,62121,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62121,1,Motor Vehicle In-Transport ,3,1
-1,12 Clock Point,62121,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62121,1,Motor Vehicle In-Transport ,3,1
-1,12 Clock Point,62121,2,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62122,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62123,1,Ran Off Roadway - Right,1,9999
 1,Non-Harmful Event,62123,2,Re-entering Roadway,1,9999
@@ -4134,10 +3157,6 @@
 1,12 Clock Point,62124,2,Parked Motor Vehicle ,1,2
 2,Other Objects Set-In-Motion,62124,3,Building,1,9999
 3,12 Clock Point,62124,4,Parked Motor Vehicle ,1,3
-0,Non-Harmful Event,62124,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,62124,2,Parked Motor Vehicle ,1,2
-2,Other Objects Set-In-Motion,62124,3,Building,1,9999
-3,12 Clock Point,62124,4,Parked Motor Vehicle ,1,3
 0,Non-Collision,62131,1,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62132,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62132,2,Curb,1,9999
@@ -4150,26 +3169,14 @@
 1,12 Clock Point,62141,2,Other Fixed Object,1,9999
 2,Non-Harmful Event,62141,3,Vehicle Went Airborne,1,9999
 3,Left-Front Half,62141,4,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62141,1,Ran Off Roadway - Right,1,9999
-1,12 Clock Point,62141,2,Other Fixed Object,1,9999
-2,Non-Harmful Event,62141,3,Vehicle Went Airborne,1,9999
-3,Left-Front Half,62141,4,Tree (Standing Only),1,9999
 0,12 Clock Point,62144,1,Motor Vehicle In-Transport ,2,1
 0,11 Clock Point,62145,1,Motor Vehicle In-Transport ,1,2
 1,Top,62145,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62146,1,Pedestrian,1,9999
 0,12 Clock Point,62146,1,Pedestrian,1,9999
 0,Non-Harmful Event,62147,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62147,2,Impact Attenuator/Crash Cushion,1,9999
 2,Non-Collision,62147,3,Rollover/Overturn,1,9999
 0,12 Clock Point,62149,1,Pedestrian,1,9999
-0,12 Clock Point,62149,1,Pedestrian,1,9999
-0,11 Clock Point,62150,1,Motor Vehicle In-Transport ,1,2
-1,Not Reported,62150,2,Pedestrian,2,9999
-2,Non-Harmful Event,62150,3,Ran Off Roadway - Left,1,5555
-3,Not Reported,62150,4,Concrete Traffic Barrier,1,9999
-4,Non-Harmful Event,62150,5,Ran Off Roadway - Left,2,5555
-5,Not Reported,62150,6,Concrete Traffic Barrier,2,9999
 0,11 Clock Point,62150,1,Motor Vehicle In-Transport ,1,2
 1,Not Reported,62150,2,Pedestrian,2,9999
 2,Non-Harmful Event,62150,3,Ran Off Roadway - Left,1,5555
@@ -4189,13 +3196,8 @@
 6,Not Reported,62160,7,Boulder,1,9999
 0,Non-Harmful Event,62161,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62161,2,Traffic Signal Support,1,9999
-0,Non-Harmful Event,62161,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,62161,2,Traffic Signal Support,1,9999
 0,Non-Harmful Event,62164,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62164,2,Parked Motor Vehicle ,1,2
-0,Non-Harmful Event,62164,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,62164,2,Parked Motor Vehicle ,1,2
-0,12 Clock Point,62165,1,Pedestrian,1,9999
 0,12 Clock Point,62165,1,Pedestrian,1,9999
 0,12 Clock Point,62167,1,Pedestrian,1,9999
 0,Non-Harmful Event,62169,1,Ran Off Roadway - Right,1,5555
@@ -4208,28 +3210,15 @@
 2,Non-Collision,62170,3,Fell/Jumped from Vehicle,1,9999
 3,Not Reported,62170,4,Motor Vehicle In-Transport ,1,2
 4,Set-In-Motion (Not a Clock Value),62170,5,Motor Vehicle In-Transport ,1,2
-0,Non-Collision,62170,1,Rollover/Overturn,1,9999
-1,Non-Harmful Event,62170,2,Cross Centerline,1,5555
-2,Non-Collision,62170,3,Fell/Jumped from Vehicle,1,9999
-3,Not Reported,62170,4,Motor Vehicle In-Transport ,1,2
-4,Set-In-Motion (Not a Clock Value),62170,5,Motor Vehicle In-Transport ,1,2
 0,Not Reported,62171,1,Pedestrian,1,9999
-0,12 Clock Point,62172,1,Pedestrian,1,9999
 0,12 Clock Point,62172,1,Pedestrian,1,9999
 0,Non-Harmful Event,62175,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62175,2,Tree (Standing Only),1,9999
 0,Non-Harmful Event,62177,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,62177,2,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62177,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,62177,2,Tree (Standing Only),1,9999
 0,Non-Harmful Event,62178,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62178,2,Pedalcyclist,1,9999
 2,Other Objects Set-In-Motion,62178,3,Pedalcyclist,1,9999
-0,Non-Harmful Event,62180,1,Ran Off Roadway - Right,1,9999
-1,Not Reported,62180,2,Shrubbery,1,9999
-2,Not Reported,62180,3,Bridge Rail (Includes parapet),1,9999
-3,Non-Harmful Event,62180,4,Vehicle Went Airborne,1,9999
-4,Non-Collision,62180,5,Other Non-Collision,1,9999
 0,Non-Harmful Event,62180,1,Ran Off Roadway - Right,1,9999
 1,Not Reported,62180,2,Shrubbery,1,9999
 2,Not Reported,62180,3,Bridge Rail (Includes parapet),1,9999
@@ -4270,8 +3259,6 @@
 5,Non-Harmful Event,62202,6,Ran Off Roadway - Right,2,5555
 6,Non-Collision,62202,7,Rollover/Overturn,2,9999
 0,12 Clock Point,62203,1,Pedalcyclist,1,9999
-0,12 Clock Point,62203,1,Pedalcyclist,1,9999
-0,12 Clock Point,62203,1,Pedalcyclist,1,9999
 0,Unknown,62206,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62207,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62207,2,Fence,1,9999
@@ -4298,11 +3285,7 @@
 0,Non-Harmful Event,62224,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62224,2,Parked Motor Vehicle ,1,2
 2,Not Reported,62224,3,Parked Motor Vehicle ,1,3
-0,Non-Harmful Event,62224,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62224,2,Parked Motor Vehicle ,1,2
-2,Not Reported,62224,3,Parked Motor Vehicle ,1,3
 0,12 Clock Point,62225,1,Pedestrian,1,9999
-0,12 Clock Point,62226,1,Pedestrian,1,9999
 0,12 Clock Point,62226,1,Pedestrian,1,9999
 0,12 Clock Point,62228,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,62228,2,Ran Off Roadway - Left,2,5555
@@ -4324,16 +3307,9 @@
 0,12 Clock Point,62238,1,Pedestrian,1,9999
 0,Non-Harmful Event,62239,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62239,2,Curb,1,9999
-0,Non-Harmful Event,62239,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62239,2,Curb,1,9999
 0,Non-Harmful Event,62240,1,Ran Off Roadway - Right,1,5555
 1,Undercarriage,62240,2,Curb,1,9999
 2,Left-Front Side,62240,3,Traffic Sign Support ,1,9999
-0,Non-Harmful Event,62241,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62241,2,Concrete Traffic Barrier,1,9999
-2,Non-Harmful Event,62241,3,Re-entering Roadway,1,5555
-3,Non-Harmful Event,62241,4,Ran Off Roadway - Left,1,5555
-4,Not Reported,62241,5,Concrete Traffic Barrier,1,9999
 0,Non-Harmful Event,62241,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62241,2,Concrete Traffic Barrier,1,9999
 2,Non-Harmful Event,62241,3,Re-entering Roadway,1,5555
@@ -4360,7 +3336,6 @@
 1,12 Clock Point,62256,2,Motor Vehicle In-Transport ,1,3
 2,12 Clock Point,62256,3,Motor Vehicle In-Transport ,1,4
 0,1 Clock Point,62257,1,Motor Vehicle In-Transport ,1,2
-0,1 Clock Point,62257,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62260,1,Cross Centerline,1,5555
 1,Non-Harmful Event,62260,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,62260,3,Mail Box,1,9999
@@ -4371,15 +3346,12 @@
 7,Non-Harmful Event,62260,8,Ran Off Roadway - Right,1,5555
 8,Not Reported,62260,9,Fence,1,9999
 0,Not Reported,62262,1,Pedestrian,1,9999
-0,Not Reported,62262,1,Pedestrian,1,9999
 0,Non-Harmful Event,62265,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,62265,2,Re-entering Roadway,1,5555
 2,Non-Collision,62265,3,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62267,1,Ran Off Roadway - Right,1,9999
 1,Undercarriage,62267,2,Curb,1,9999
 2,9 Clock Point,62267,3,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62269,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62269,2,Guardrail Face,1,9999
 0,Non-Harmful Event,62269,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62269,2,Guardrail Face,1,9999
 0,Right-Front Side,62275,1,Pedestrian,1,9999
@@ -4392,12 +3364,6 @@
 0,Non-Harmful Event,62281,1,Ran Off Roadway - Left,1,5555
 1,Left,62281,2,Curb,1,9999
 2,Non-Collision,62281,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62281,1,Ran Off Roadway - Left,1,5555
-1,Left,62281,2,Curb,1,9999
-2,Non-Collision,62281,3,Rollover/Overturn,1,9999
-0,Non-Collision,62282,1,Rollover/Overturn,1,9999
-1,Non-Harmful Event,62282,2,Cross Centerline,1,5555
-2,12 Clock Point,62282,3,Motor Vehicle In-Transport ,1,2
 0,Non-Collision,62282,1,Rollover/Overturn,1,9999
 1,Non-Harmful Event,62282,2,Cross Centerline,1,5555
 2,12 Clock Point,62282,3,Motor Vehicle In-Transport ,1,2
@@ -4416,19 +3382,8 @@
 5,Not Reported,62288,6,Traffic Sign Support ,1,9999
 6,Left-Back Side,62288,7,Motor Vehicle In-Transport ,2,3
 7,12 Clock Point,62288,8,Motor Vehicle In-Transport ,3,4
-0,12 Clock Point,62288,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,62288,2,Ran Off Roadway - Left,1,5555
-2,Not Reported,62288,3,Curb,1,9999
-3,Not Reported,62288,4,Traffic Sign Support ,1,9999
-4,Non-Collision,62288,5,Rollover/Overturn,1,9999
-5,Not Reported,62288,6,Traffic Sign Support ,1,9999
-6,Left-Back Side,62288,7,Motor Vehicle In-Transport ,2,3
-7,12 Clock Point,62288,8,Motor Vehicle In-Transport ,3,4
 0,12 Clock Point,62289,1,Pedestrian,1,9999
 0,Not Reported,62290,1,Pedestrian,1,9999
-0,Not Reported,62290,1,Pedestrian,1,9999
-0,12 Clock Point,62291,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62291,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62291,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62293,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62293,2,Guardrail Face,1,9999
@@ -4451,26 +3406,12 @@
 0,Non-Harmful Event,62309,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62309,2,Parked Motor Vehicle ,1,2
 2,Other Objects Set-In-Motion,62309,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
-0,Non-Harmful Event,62309,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,62309,2,Parked Motor Vehicle ,1,2
-2,Other Objects Set-In-Motion,62309,3,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
 0,12 Clock Point,62310,1,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62310,1,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,62312,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,62312,2,Pedestrian,1,9999
-0,Non-Harmful Event,62312,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,62312,2,Pedestrian,1,9999
 0,Non-Harmful Event,62312,1,Ran Off Roadway - Left,1,5555
 1,12 Clock Point,62312,2,Pedestrian,1,9999
 0,Non-Harmful Event,62313,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,62313,2,Embankment,1,9999
 2,Non-Collision,62313,3,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62314,1,Cross Centerline,1,9999
-1,Left,62314,2,Motor Vehicle In-Transport ,1,2
-2,Non-Harmful Event,62314,3,Cross Centerline,1,9999
-3,Non-Collision,62314,4,Rollover/Overturn,3,9999
-4,Non-Harmful Event,62314,5,Ran Off Roadway - Right,1,9999
-5,Undercarriage,62314,6,Fence,1,9999
 0,Non-Harmful Event,62314,1,Cross Centerline,1,9999
 1,Left,62314,2,Motor Vehicle In-Transport ,1,2
 2,Non-Harmful Event,62314,3,Cross Centerline,1,9999
@@ -4487,12 +3428,6 @@
 3,Not Reported,62317,4,Culvert,2,9999
 4,Not Reported,62317,5,Embankment,1,9999
 5,Non-Collision,62317,6,Rollover/Overturn,1,9999
-0,Right,62317,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,62317,2,Ran Off Roadway - Right,2,5555
-2,Non-Harmful Event,62317,3,Ran Off Roadway - Right,1,5555
-3,Not Reported,62317,4,Culvert,2,9999
-4,Not Reported,62317,5,Embankment,1,9999
-5,Non-Collision,62317,6,Rollover/Overturn,1,9999
 0,12 Clock Point,62320,1,Pedestrian,1,9999
 0,Non-Harmful Event,62321,1,Ran Off Roadway - Right,1,5555
 1,Non-Harmful Event,62321,2,Re-entering Roadway,1,5555
@@ -4502,24 +3437,9 @@
 5,Non-Harmful Event,62321,6,Vehicle Went Airborne,1,5555
 6,Left-Front Half,62321,7,Tree (Standing Only),1,9999
 7,Non-Collision,62321,8,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62321,1,Ran Off Roadway - Right,1,5555
-1,Non-Harmful Event,62321,2,Re-entering Roadway,1,5555
-2,Non-Harmful Event,62321,3,Cross Centerline,1,5555
-3,Non-Harmful Event,62321,4,Ran Off Roadway - Left,1,5555
-4,Left-Back Half,62321,5,Tree (Standing Only),1,9999
-5,Non-Harmful Event,62321,6,Vehicle Went Airborne,1,5555
-6,Left-Front Half,62321,7,Tree (Standing Only),1,9999
-7,Non-Collision,62321,8,Rollover/Overturn,1,9999
-0,12 Clock Point,62322,1,Non-Motorist on Personal Conveyance,1,9999
 0,12 Clock Point,62322,1,Non-Motorist on Personal Conveyance,1,9999
 0,12 Clock Point,62323,1,Motor Vehicle In-Transport ,1,2
 0,Left-Front Side,62326,1,Pedestrian,1,9999
-0,Non-Harmful Event,62327,1,Ran Off Roadway - Right,1,5555
-1,5 Clock Point,62327,2,Wall,1,9999
-2,5 Clock Point,62327,3,Boulder,1,9999
-3,Non-Harmful Event,62327,4,Re-entering Roadway,1,5555
-4,Non-Harmful Event,62327,5,Cross Centerline,1,5555
-5,8 Clock Point,62327,6,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62327,1,Ran Off Roadway - Right,1,5555
 1,5 Clock Point,62327,2,Wall,1,9999
 2,5 Clock Point,62327,3,Boulder,1,9999
@@ -4532,11 +3452,6 @@
 1,Undercarriage,62330,2,Curb,1,9999
 2,Non-Collision,62330,3,Fell/Jumped from Vehicle,1,9999
 3,Not Reported,62330,4,Embankment,1,9999
-0,Non-Harmful Event,62333,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62333,2,Other Object (not fixed),1,9999
-2,12 Clock Point,62333,3,Utility Pole/Light Support,1,9999
-3,Non-Collision,62333,4,Rollover/Overturn,1,9999
-4,Non-Collision,62333,5,Thrown or Falling Object,1,9999
 0,Non-Harmful Event,62333,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62333,2,Other Object (not fixed),1,9999
 2,12 Clock Point,62333,3,Utility Pole/Light Support,1,9999
@@ -4594,12 +3509,6 @@
 3,Right,62363,4,Bridge Rail (Includes parapet),1,9999
 4,Non-Harmful Event,62363,5,Vehicle Went Airborne,1,5555
 5,Non-Collision,62363,6,Rollover/Overturn,1,9999
-0,Left,62363,1,Motor Vehicle In-Transport ,1,2
-1,Non-Harmful Event,62363,2,Ran Off Roadway - Right,1,5555
-2,Right,62363,3,Concrete Traffic Barrier,1,9999
-3,Right,62363,4,Bridge Rail (Includes parapet),1,9999
-4,Non-Harmful Event,62363,5,Vehicle Went Airborne,1,5555
-5,Non-Collision,62363,6,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62364,1,Cross Centerline,1,5555
 1,Left-Front Side,62364,2,Motor Vehicle In-Transport ,1,2
 2,Non-Harmful Event,62364,3,Ran Off Roadway - Right,2,5555
@@ -4614,7 +3523,6 @@
 7,Non-Collision,62368,8,Rollover/Overturn,1,9999
 8,9 Clock Point,62368,9,Tree (Standing Only),1,9999
 0,Not Reported,62369,1,Pedestrian,1,9999
-0,Not Reported,62369,1,Pedestrian,1,9999
 0,3 Clock Point,62371,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62372,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,62372,2,Ran Off Roadway - Right,2,5555
@@ -4622,7 +3530,6 @@
 0,Non-Harmful Event,62373,1,Ran Off Roadway - Right,1,5555
 1,Non-Collision,62373,2,Rollover/Overturn,1,9999
 2,Not Reported,62373,3,Guardrail Face,1,9999
-0,7 Clock Point,62374,1,Motor Vehicle In-Transport ,1,2
 0,7 Clock Point,62374,1,Motor Vehicle In-Transport ,1,2
 0,Non-Harmful Event,62376,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62376,2,Fence,1,9999
@@ -4632,7 +3539,6 @@
 5,Non-Harmful Event,62376,6,Ran Off Roadway - Left,1,5555
 6,Not Reported,62376,7,Fence,1,9999
 7,Non-Collision,62376,8,Rollover/Overturn,1,9999
-0,12 Clock Point,62379,1,Pedestrian,1,9999
 0,12 Clock Point,62379,1,Pedestrian,1,9999
 0,12 Clock Point,62381,1,Pedestrian,1,9999
 0,Non-Harmful Event,62382,1,Ran Off Roadway - Right,1,9999
@@ -4647,7 +3553,6 @@
 4,Non-Harmful Event,62383,5,Ran Off Roadway - Right,1,5555
 5,12 Clock Point,62383,6,Wall,1,9999
 0,12 Clock Point,62384,1,Pedestrian,1,9999
-0,12 Clock Point,62384,1,Pedestrian,1,9999
 0,Right,62388,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,62388,2,Ran Off Roadway - Left,1,5555
 2,7 Clock Point,62388,3,Concrete Traffic Barrier,1,9999
@@ -4661,7 +3566,6 @@
 1,Non-Harmful Event,62390,2,Ran Off Roadway - Left,1,5555
 2,Not Reported,62390,3,Wall,1,9999
 0,12 Clock Point,62391,1,Pedestrian,1,9999
-0,12 Clock Point,62391,1,Pedestrian,1,9999
 0,Non-Harmful Event,62392,1,Ran Off Roadway - Left,1,5555
 1,Non-Harmful Event,62392,2,Re-entering Roadway,1,5555
 2,Non-Harmful Event,62392,3,Ran Off Roadway - Right,1,5555
@@ -4670,7 +3574,6 @@
 5,Not Reported,62392,6,Tree (Standing Only),1,9999
 0,12 Clock Point,62394,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,62394,2,Fire/Explosion,1,9999
-0,12 Clock Point,62396,1,Pedestrian,1,9999
 0,12 Clock Point,62396,1,Pedestrian,1,9999
 0,Non-Collision,62397,1,Rollover/Overturn,2,9999
 1,Not Reported,62397,2,Motor Vehicle In-Transport ,2,1
@@ -4691,8 +3594,6 @@
 2,Left-Front Side,62410,3,Wall,2,9999
 3,Non-Collision,62410,4,Fire/Explosion,1,9999
 0,12 Clock Point,62416,1,Pedestrian,1,9999
-0,12 Clock Point,62418,1,Pedestrian,1,9999
-1,12 Clock Point,62418,2,Pedestrian,1,9999
 0,12 Clock Point,62418,1,Pedestrian,1,9999
 1,12 Clock Point,62418,2,Pedestrian,1,9999
 0,12 Clock Point,62421,1,Pedestrian,1,9999
@@ -4723,12 +3624,8 @@
 0,11 Clock Point,62437,1,Pedestrian,1,9999
 0,12 Clock Point,62439,1,Pedestrian,1,9999
 1,Undercarriage,62439,2,Pedestrian,2,9999
-0,12 Clock Point,62439,1,Pedestrian,1,9999
-1,Undercarriage,62439,2,Pedestrian,2,9999
 0,Reported as Unknown,62442,1,Pedestrian,1,9999
 1,Not Reported,62442,2,Pedestrian,2,9999
-0,12 Clock Point,62443,1,Pedestrian,1,9999
-0,12 Clock Point,62443,1,Pedestrian,1,9999
 0,12 Clock Point,62443,1,Pedestrian,1,9999
 0,12 Clock Point,62445,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,62445,2,Fire/Explosion,2,9999
@@ -4744,16 +3641,6 @@
 6,12 Clock Point,62448,7,Motor Vehicle In-Transport ,2,5
 7,Non-Collision,62448,8,Rollover/Overturn,5,9999
 8,12 Clock Point,62448,9,Motor Vehicle In-Transport ,2,6
-0,Non-Harmful Event,62453,1,Cross Centerline,1,9999
-1,Non-Harmful Event,62453,2,Cross Centerline,1,9999
-2,Non-Harmful Event,62453,3,Ran Off Roadway - Right,1,9999
-3,Non-Collision,62453,4,Rollover/Overturn,1,9999
-4,12 Clock Point,62453,5,Tree (Standing Only),1,9999
-0,Non-Harmful Event,62453,1,Cross Centerline,1,9999
-1,Non-Harmful Event,62453,2,Cross Centerline,1,9999
-2,Non-Harmful Event,62453,3,Ran Off Roadway - Right,1,9999
-3,Non-Collision,62453,4,Rollover/Overturn,1,9999
-4,12 Clock Point,62453,5,Tree (Standing Only),1,9999
 0,Non-Harmful Event,62453,1,Cross Centerline,1,9999
 1,Non-Harmful Event,62453,2,Cross Centerline,1,9999
 2,Non-Harmful Event,62453,3,Ran Off Roadway - Right,1,9999
@@ -4792,10 +3679,6 @@
 1,Not Reported,62479,2,Traffic Sign Support ,1,9999
 2,Not Reported,62479,3,Boulder,1,9999
 3,Non-Collision,62479,4,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62479,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62479,2,Traffic Sign Support ,1,9999
-2,Not Reported,62479,3,Boulder,1,9999
-3,Non-Collision,62479,4,Rollover/Overturn,1,9999
 0,12 Clock Point,62482,1,Motor Vehicle In-Transport ,1,2
 0,Not Reported,62484,1,Pedalcyclist,1,9999
 0,3 Clock Point,62486,1,Pedalcyclist,1,9999
@@ -4810,11 +3693,6 @@
 3,12 Clock Point,62490,4,Utility Pole/Light Support,1,9999
 0,12 Clock Point,62497,1,Pedestrian,1,9999
 0,12 Clock Point,62498,1,Pedestrian,1,9999
-0,12 Clock Point,62498,1,Pedestrian,1,9999
-0,Non-Harmful Event,62499,1,Ran Off Roadway - Left,1,9999
-1,Undercarriage,62499,2,Curb,1,9999
-2,Not Reported,62499,3,Utility Pole/Light Support,1,9999
-3,Not Reported,62499,4,Tree (Standing Only),1,9999
 0,Non-Harmful Event,62499,1,Ran Off Roadway - Left,1,9999
 1,Undercarriage,62499,2,Curb,1,9999
 2,Not Reported,62499,3,Utility Pole/Light Support,1,9999
@@ -4862,19 +3740,10 @@
 0,12 Clock Point,62530,1,Live Animal,1,9999
 0,Non-Collision,62531,1,Rollover/Overturn,1,9999
 1,Other Objects Set-In-Motion,62531,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,Non-Collision,62531,1,Rollover/Overturn,1,9999
-1,Other Objects Set-In-Motion,62531,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,Non-Harmful Event,62532,1,Cross Centerline,1,5555
-1,12 Clock Point,62532,2,Motor Vehicle In-Transport ,1,2
-2,6 Clock Point,62532,3,Motor Vehicle In-Transport ,1,3
-0,Non-Harmful Event,62532,1,Cross Centerline,1,5555
-1,12 Clock Point,62532,2,Motor Vehicle In-Transport ,1,2
-2,6 Clock Point,62532,3,Motor Vehicle In-Transport ,1,3
 0,Non-Harmful Event,62532,1,Cross Centerline,1,5555
 1,12 Clock Point,62532,2,Motor Vehicle In-Transport ,1,2
 2,6 Clock Point,62532,3,Motor Vehicle In-Transport ,1,3
 0,12 Clock Point,62534,1,Pedestrian,1,9999
-0,12 Clock Point,62537,1,Pedestrian,1,9999
 0,12 Clock Point,62537,1,Pedestrian,1,9999
 0,Right-Front Side,62541,1,Motor Vehicle In-Transport ,1,2
 1,2 Clock Point,62541,2,Motor Vehicle In-Transport ,1,2
@@ -4930,19 +3799,9 @@
 1,12 Clock Point,62581,2,Traffic Sign Support ,1,9999
 2,Not Reported,62581,3,Other Fixed Object,1,9999
 3,Non-Collision,62581,4,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62581,1,Ran Off Roadway - Left,1,5555
-1,12 Clock Point,62581,2,Traffic Sign Support ,1,9999
-2,Not Reported,62581,3,Other Fixed Object,1,9999
-3,Non-Collision,62581,4,Rollover/Overturn,1,9999
 0,12 Clock Point,62582,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62588,1,Pedestrian,1,9999
-0,12 Clock Point,62588,1,Pedestrian,1,9999
-0,12 Clock Point,62588,1,Pedestrian,1,9999
 0,12 Clock Point,62593,1,Pedestrian,1,9999
-0,Right,62594,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,62594,2,Rollover/Overturn,1,9999
-2,Non-Collision,62594,3,Fell/Jumped from Vehicle,1,9999
-3,Other Objects Set-In-Motion,62594,4,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,3
 0,Right,62594,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,62594,2,Rollover/Overturn,1,9999
 2,Non-Collision,62594,3,Fell/Jumped from Vehicle,1,9999
@@ -4970,35 +3829,16 @@
 5,12 Clock Point,62604,6,Parked Motor Vehicle ,1,3
 6,Other Objects Set-In-Motion,62604,7,Utility Pole/Light Support,1,9999
 7,12 Clock Point,62604,8,Utility Pole/Light Support,1,9999
-0,Non-Collision,62604,1,"Pavement Surface Irregularity (Ruts, Potholes, Grates, etc.)",1,9999
-1,Non-Harmful Event,62604,2,Vehicle Went Airborne,1,5555
-2,Undercarriage,62604,3,Ground,1,9999
-3,Non-Harmful Event,62604,4,Ran Off Roadway - Right,1,5555
-4,Right,62604,5,Parked Motor Vehicle ,1,2
-5,12 Clock Point,62604,6,Parked Motor Vehicle ,1,3
-6,Other Objects Set-In-Motion,62604,7,Utility Pole/Light Support,1,9999
-7,12 Clock Point,62604,8,Utility Pole/Light Support,1,9999
 0,12 Clock Point,62607,1,Motor Vehicle In-Transport ,1,2
 1,Other Objects Set-In-Motion,62607,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,12 Clock Point,62607,1,Motor Vehicle In-Transport ,1,2
-1,Other Objects Set-In-Motion,62607,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,12 Clock Point,62609,1,Pedestrian,1,9999
 0,12 Clock Point,62609,1,Pedestrian,1,9999
 0,12 Clock Point,62610,1,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,62613,1,Ran Off Roadway - Left,1,5555
-1,Non-Collision,62613,2,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62613,1,Ran Off Roadway - Left,1,5555
-1,Non-Collision,62613,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62613,1,Ran Off Roadway - Left,1,5555
 1,Non-Collision,62613,2,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62615,1,Ran Off Roadway - Right,1,5555
 1,Right,62615,2,Boulder,1,9999
 2,Right,62615,3,Boulder,1,9999
 3,Non-Collision,62615,4,Rollover/Overturn,1,9999
-0,Non-Collision,62617,1,Rollover/Overturn,2,9999
-1,Not Reported,62617,2,Motor Vehicle In-Transport ,2,1
-0,Non-Collision,62617,1,Rollover/Overturn,2,9999
-1,Not Reported,62617,2,Motor Vehicle In-Transport ,2,1
 0,Non-Collision,62617,1,Rollover/Overturn,2,9999
 1,Not Reported,62617,2,Motor Vehicle In-Transport ,2,1
 0,10 Clock Point,62621,1,Pedestrian,1,9999
@@ -5027,9 +3867,6 @@
 0,Non-Harmful Event,62651,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62651,2,Other Fixed Object,1,9999
 2,Other Objects Set-In-Motion,62651,3,Other Fixed Object,1,9999
-0,Non-Harmful Event,62651,1,Ran Off Roadway - Right,1,5555
-1,12 Clock Point,62651,2,Other Fixed Object,1,9999
-2,Other Objects Set-In-Motion,62651,3,Other Fixed Object,1,9999
 0,12 Clock Point,62652,1,Motor Vehicle In-Transport ,1,2
 1,Not Reported,62652,2,Motor Vehicle In-Transport ,2,3
 0,12 Clock Point,62653,1,Pedalcyclist,1,9999
@@ -5039,14 +3876,7 @@
 3,Non-Harmful Event,62656,4,Re-entering Roadway,1,5555
 4,3 Clock Point,62656,5,Motor Vehicle In-Transport ,1,2
 5,12 Clock Point,62656,6,Motor Vehicle In-Transport ,3,1
-0,Non-Harmful Event,62656,1,Ran Off Roadway - Right,1,5555
-1,1 Clock Point,62656,2,Concrete Traffic Barrier,1,9999
-2,Non-Collision,62656,3,Rollover/Overturn,1,9999
-3,Non-Harmful Event,62656,4,Re-entering Roadway,1,5555
-4,3 Clock Point,62656,5,Motor Vehicle In-Transport ,1,2
-5,12 Clock Point,62656,6,Motor Vehicle In-Transport ,3,1
 0,12 Clock Point,62658,1,Pedestrian,1,9999
-0,12 Clock Point,62660,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62660,1,Motor Vehicle In-Transport ,1,2
 0,Left-Front Side,62665,1,Motor Vehicle In-Transport ,1,2
 1,Non-Harmful Event,62665,2,Ran Off Roadway - Right,2,5555
@@ -5091,8 +3921,6 @@
 2,Non-Collision,62689,3,Rollover/Overturn,1,9999
 0,Non-Harmful Event,62690,1,"Equipment Failure (blown tire, brake failure, etc)",1,5555
 1,Non-Collision,62690,2,Rollover/Overturn,1,9999
-0,Non-Harmful Event,62690,1,"Equipment Failure (blown tire, brake failure, etc)",1,5555
-1,Non-Collision,62690,2,Rollover/Overturn,1,9999
 0,12 Clock Point,62694,1,Motor Vehicle In-Transport ,1,2
 1,Non-Collision,62694,2,Rollover/Overturn,1,9999
 2,Non-Harmful Event,62694,3,Ran Off Roadway - Left,1,5555
@@ -5102,16 +3930,7 @@
 3,Right-Front Side,62695,4,Concrete Traffic Barrier,2,9999
 4,Non-Harmful Event,62695,5,Ran Off Roadway - Right,1,5555
 5,Left-Back Side,62695,6,Concrete Traffic Barrier,1,9999
-0,Non-Harmful Event,62695,1,"Equipment Failure (blown tire, brake failure, etc)",2,5555
-1,12 Clock Point,62695,2,Motor Vehicle In-Transport ,1,2
-2,Non-Harmful Event,62695,3,Ran Off Roadway - Right,2,5555
-3,Right-Front Side,62695,4,Concrete Traffic Barrier,2,9999
-4,Non-Harmful Event,62695,5,Ran Off Roadway - Right,1,5555
-5,Left-Back Side,62695,6,Concrete Traffic Barrier,1,9999
 0,12 Clock Point,62697,1,Pedestrian,1,9999
-0,12 Clock Point,62703,1,Motor Vehicle In-Transport ,2,1
-1,Non-Harmful Event,62703,2,Ran off Roadway - Direction Unknown,1,9999
-2,6 Clock Point,62703,3,Parked Motor Vehicle ,1,3
 0,12 Clock Point,62703,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,62703,2,Ran off Roadway - Direction Unknown,1,9999
 2,6 Clock Point,62703,3,Parked Motor Vehicle ,1,3
@@ -5134,18 +3953,12 @@
 3,12 Clock Point,62711,4,Motor Vehicle In-Transport ,1,2
 4,12 Clock Point,62711,5,Motor Vehicle In-Transport ,3,2
 0,Left-Front Side,62712,1,Pedestrian,1,9999
-0,Left-Front Side,62712,1,Pedestrian,1,9999
 0,Non-Collision,62716,1,Rollover/Overturn,1,9999
 0,12 Clock Point,62726,1,Pedestrian,1,9999
 0,Non-Harmful Event,62729,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,62729,2,Shrubbery,1,9999
 2,Non-Harmful Event,62729,3,Ran Off Roadway - Left,1,5555
 3,12 Clock Point,62729,4,Wall,1,9999
-0,Non-Harmful Event,62729,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,62729,2,Shrubbery,1,9999
-2,Non-Harmful Event,62729,3,Ran Off Roadway - Left,1,5555
-3,12 Clock Point,62729,4,Wall,1,9999
-0,12 Clock Point,62730,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,62730,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,62731,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62731,2,Curb,1,9999
@@ -5160,16 +3973,6 @@
 0,12 Clock Point,62733,1,Pedestrian,1,9999
 1,12 Clock Point,62733,2,Pedestrian,1,9999
 2,12 Clock Point,62733,3,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62733,1,Pedestrian,1,9999
-1,12 Clock Point,62733,2,Pedestrian,1,9999
-2,12 Clock Point,62733,3,Motor Vehicle In-Transport ,1,2
-0,Non-Harmful Event,62737,1,Cross Centerline,1,5555
-1,Non-Harmful Event,62737,2,Ran Off Roadway - Left,1,5555
-2,Undercarriage,62737,3,Curb,1,9999
-3,Not Reported,62737,4,Building,1,9999
-4,Not Reported,62737,5,Wall,1,9999
-5,Left-Front Side,62737,6,Pedestrian,1,9999
-6,Not Reported,62737,7,Wall,1,9999
 0,Non-Harmful Event,62737,1,Cross Centerline,1,5555
 1,Non-Harmful Event,62737,2,Ran Off Roadway - Left,1,5555
 2,Undercarriage,62737,3,Curb,1,9999
@@ -5244,16 +4047,6 @@
 2,Undercarriage,62791,3,Curb,1,9999
 3,Non-Harmful Event,62791,4,Ran Off Roadway - Left,2,5555
 4,Undercarriage,62791,5,Curb,2,9999
-0,12 Clock Point,62791,1,Motor Vehicle In-Transport ,2,1
-1,Non-Harmful Event,62791,2,Ran Off Roadway - Right,1,5555
-2,Undercarriage,62791,3,Curb,1,9999
-3,Non-Harmful Event,62791,4,Ran Off Roadway - Left,2,5555
-4,Undercarriage,62791,5,Curb,2,9999
-0,12 Clock Point,62791,1,Motor Vehicle In-Transport ,2,1
-1,Non-Harmful Event,62791,2,Ran Off Roadway - Right,1,5555
-2,Undercarriage,62791,3,Curb,1,9999
-3,Non-Harmful Event,62791,4,Ran Off Roadway - Left,2,5555
-4,Undercarriage,62791,5,Curb,2,9999
 0,12 Clock Point,62792,1,Pedestrian,1,9999
 0,Non-Harmful Event,62793,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,62793,2,Parked Motor Vehicle ,1,2
@@ -5266,11 +4059,9 @@
 0,12 Clock Point,62806,1,Pedestrian,1,9999
 0,12 Clock Point,62808,1,Pedestrian,1,9999
 0,Not Reported,62810,1,Motor Vehicle In-Transport ,1,2
-0,Not Reported,62810,1,Motor Vehicle In-Transport ,1,2
 0,Not Reported,62813,1,Pedestrian,1,9999
 0,6 Clock Point,62818,1,Pedestrian,1,9999
 0,12 Clock Point,62821,1,Motor Vehicle In-Transport ,2,1
-0,12 Clock Point,62823,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,62823,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,62828,1,Motor Vehicle In-Transport ,1,2
 1,Other Objects Set-In-Motion,62828,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
@@ -5292,8 +4083,6 @@
 0,12 Clock Point,62861,1,Pedestrian,1,9999
 0,12 Clock Point,62865,1,Pedestrian,1,9999
 0,12 Clock Point,62878,1,Pedestrian,1,9999
-0,12 Clock Point,62878,1,Pedestrian,1,9999
-0,12 Clock Point,62878,1,Pedestrian,1,9999
 0,12 Clock Point,62879,1,Motor Vehicle In-Transport ,2,1
 1,Non-Harmful Event,62879,2,Ran Off Roadway - Right,1,5555
 2,Not Reported,62879,3,"Post, Pole or Other Supports",1,9999
@@ -5308,19 +4097,12 @@
 1,12 Clock Point,62893,2,Pedestrian,1,9999
 2,12 Clock Point,62893,3,Tree (Standing Only),1,9999
 0,5 Clock Point,62898,1,Pedalcyclist,1,9999
-0,5 Clock Point,62898,1,Pedalcyclist,1,9999
 0,Non-Harmful Event,62931,1,Ran Off Roadway - Right,1,5555
 1,Right,62931,2,Parked Motor Vehicle ,1,2
 2,Other Objects Set-In-Motion,62931,3,Pedestrian,1,9999
 3,Not Reported,62931,4,Parked Motor Vehicle ,1,3
 4,Non-Collision,62931,5,Rollover/Overturn,1,9999
 0,Unknown,62932,1,Pedestrian,1,9999
-0,Non-Harmful Event,62942,1,Ran Off Roadway - Right,1,5555
-1,Not Reported,62942,2,Curb,1,9999
-2,Not Reported,62942,3,Traffic Sign Support ,1,9999
-3,Not Reported,62942,4,Tree (Standing Only),1,9999
-4,Not Reported,62942,5,Other Fixed Object,1,9999
-5,Non-Collision,62942,6,Fire/Explosion,1,9999
 0,Non-Harmful Event,62942,1,Ran Off Roadway - Right,1,5555
 1,Not Reported,62942,2,Curb,1,9999
 2,Not Reported,62942,3,Traffic Sign Support ,1,9999
@@ -5342,20 +4124,11 @@
 3,Not Reported,62963,4,Traffic Signal Support,1,9999
 4,Non-Harmful Event,62963,5,Ran off Roadway - Direction Unknown,2,9999
 5,Not Reported,62963,6,Curb,2,9999
-0,12 Clock Point,62963,1,Motor Vehicle In-Transport ,1,2
-1,Non-Collision,62963,2,Rollover/Overturn,1,9999
-2,Non-Harmful Event,62963,3,Ran off Roadway - Direction Unknown,1,9999
-3,Not Reported,62963,4,Traffic Signal Support,1,9999
-4,Non-Harmful Event,62963,5,Ran off Roadway - Direction Unknown,2,9999
-5,Not Reported,62963,6,Curb,2,9999
 0,Non-Harmful Event,62966,1,Cross Centerline,1,5555
 1,12 Clock Point,62966,2,Motor Vehicle In-Transport ,2,1
 2,Non-Collision,62966,3,Rollover/Overturn,1,9999
 0,Non-Collision,62968,1,Rollover/Overturn,1,9999
 1,Not Reported,62968,2,Motor Vehicle In-Transport ,1,2
-0,Non-Collision,62968,1,Rollover/Overturn,1,9999
-1,Not Reported,62968,2,Motor Vehicle In-Transport ,1,2
-0,12 Clock Point,62972,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62972,1,Motor Vehicle In-Transport ,1,2
 0,12 Clock Point,62981,1,Pedestrian,1,9999
 0,Non-Harmful Event,62982,1,Ran Off Roadway - Right,1,5555
@@ -5424,10 +4197,6 @@
 1,12 Clock Point,63057,2,Motor Vehicle In-Transport ,1,2
 2,Non-Collision,63057,3,Rollover/Overturn,1,9999
 3,Non-Collision,63057,4,Fire/Explosion,2,9999
-0,Non-Harmful Event,63057,1,Cross Centerline,1,5555
-1,12 Clock Point,63057,2,Motor Vehicle In-Transport ,1,2
-2,Non-Collision,63057,3,Rollover/Overturn,1,9999
-3,Non-Collision,63057,4,Fire/Explosion,2,9999
 0,12 Clock Point,63058,1,Pedestrian,1,9999
 0,Non-Harmful Event,63059,1,Ran Off Roadway - Right,1,5555
 1,12 Clock Point,63059,2,Boulder,1,9999
@@ -5478,15 +4247,6 @@
 0,Right-Front Side,63121,1,Pedestrian,1,9999
 0,Non-Collision,63124,1,Rollover/Overturn,1,9999
 1,Other Objects Set-In-Motion,63124,2,"Motor Vehicle In-Transport Strikes or is Struck by Cargo, Persons or Objects Set-in-Motion from/by Another Motor Vehicle In Transport",1,2
-0,Non-Harmful Event,63125,1,Ran Off Roadway - Left,1,5555
-1,Not Reported,63125,2,Curb,1,9999
-2,Not Reported,63125,3,Traffic Sign Support ,1,9999
-3,Not Reported,63125,4,Traffic Sign Support ,1,9999
-4,Non-Collision,63125,5,Rollover/Overturn,1,9999
-5,Non-Harmful Event,63125,6,Cross Median,1,5555
-6,Non-Harmful Event,63125,7,Ran Off Roadway - Left,1,5555
-7,Top,63125,8,Other Fixed Object,1,9999
-8,Top,63125,9,Traffic Signal Support,1,9999
 0,Non-Harmful Event,63125,1,Ran Off Roadway - Left,1,5555
 1,Not Reported,63125,2,Curb,1,9999
 2,Not Reported,63125,3,Traffic Sign Support ,1,9999
@@ -5594,7 +4354,6 @@
 5,Non-Harmful Event,63395,6,Ran Off Roadway - Left,1,5555
 6,12 Clock Point,63395,7,Concrete Traffic Barrier,1,9999
 0,12 Clock Point,63418,1,Pedestrian,1,9999
-0,12 Clock Point,63422,1,Motor Vehicle In-Transport ,2,1
 0,12 Clock Point,63422,1,Motor Vehicle In-Transport ,2,1
 0,Non-Harmful Event,63423,1,Ran Off Roadway - Right,1,5555
 1,Left,63423,2,Curb,1,9999

@@ -130,10 +130,12 @@ dmypy.json
 
 # Data files
 .csv
-.geojson
+data/raw/6*.json
+data/interim/census*
 
 # Google Drive
 desktop.ini
 
 # API keys
 api_config.py
+
